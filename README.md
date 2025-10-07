@@ -1,1 +1,166 @@
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Gurdeep%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&desc=Business%20Analytics%20%7C%20BI%20%7C%20Finance&descAlignY=60" alt="Gurdeep Singh Header"/> </p> <!-- Typing headline --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1100&color=22C55E&center=true&vCenter=true&width=900&lines=Turning+data+into+decisions+that+move+the+P%26L;KPI-driven+dashboards+and+automated+reporting;SQL+%7C+Python+%7C+R+%7C+Tableau+%7C+Power+BI;Forecasting+%7C+Budgeting+%7C+Data+Governance" alt="typing animation"> </p> <p align="center"> <a href="mailto:gurdeepsaini05@gmail.com"><img src="https://img.shields.io/badge/Email-gurdeepsaini05%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="tel:+17023243864"><img src="https://img.shields.io/badge/Call-702%E2%80%93324%E2%80%933864-22c55e?style=for-the-badge&logo=signal&logoColor=white" alt="Phone"></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:gurdeepsaini05@gmail.com?subject=BI%2FAnalytics%20Collab"><img src="https://img.shields.io/badge/Open%20to-BI%20%26%20Analytics%20Roles-6b7280?style=for-the-badge" alt="Open to roles"></a> </p> <!-- Quick stats --> <p align="center"> <img src="https://img.shields.io/badge/Experience-9%2B%20years-111827?style=for-the-badge&labelColor=111827&color=22c55e" alt="Experience"/> <img src="https://img.shields.io/badge/Sectors-Retail%20%7C%20Beverage%20%7C%20Tech-111827?style=for-the-badge&labelColor=111827&color=0ea5e9" alt="Sectors"/> <img src="https://img.shields.io/badge/Focus-Finance%20%7C%20Ops%20%7C%20Growth-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="Focus"/> </p> <!-- Hero visual (replace with your own GIF or SVG) --> <p align="center"> <img src="assets/ba_dashboard_hero.gif" alt="Animated KPI Dashboard" width="840"> </p> ## About Results-driven Business Intelligence and Data Analytics professional. I build automated pipelines, predictive forecasts, and executive dashboards that align analytics to business outcomes. - Finance: P&L, budgeting/forecasting, EBITDA, variance analysis - BI engineering: SQL models, Python ETL, ERP/warehousing, data governance - Visualization: Tableau and Power BI for KPI monitoring and decision support Impact highlights: - 25% faster reporting turnaround (standardized KPI definitions, dashboard automation) - 40% reduction in manual reporting (SQL + Python ETL) - 20% efficiency gains via process automation and data validation frameworks ## Tech stack <p> <img src="https://skillicons.dev/icons?i=python,r,sqlite,postgres,aws,git,tableau,powerbi,excel&theme=light" alt="skills"/> </p> - SQL (modeling, optimization), Python (pandas, automation), R (forecasting) - Tableau, Power BI, Advanced Excel - Data governance, audit/validation, SOP documentation ## Featured work - Retail KPI Command Center (Tableau/Power BI) — Merch, inventory, and store ops KPIs with RAG alerts and executive views Repo: https://github.com/YOUR_GITHUB_USERNAME/retail-kpi-dashboard - Sales Forecasting (Python/R) — Prophet/XGBoost hybrid with promotion and seasonality features Repo: https://github.com/YOUR_GITHUB_USERNAME/sales-forecasting - Finance ETL + P&L Automation (SQL/Python) — Automated data pipelines and monthly snapshots for period-over-period analysis Repo: https://github.com/YOUR_GITHUB_USERNAME/finance-etl-pnl - Data Quality Monitor — Great Expectations + alerting to enforce KPI reliability Repo: https://github.com/YOUR_GITHUB_USERNAME/data-quality-monitor ## Experience snapshot - Burlington Stores — Business Intelligence Analyst (Dec 2023–Present) - Monster Energy — Data Analyst (Feb 2022–Nov 2023) - Infosys — Business & Data Analyst (Oct 2019–Dec 2021) - Airtel — Data Analyst (Jun 2017–Sep 2019) - Domino’s — Data Analytics Intern (Aug 2016–May 2017) ## Education & certs - MBA, MS-IT — California Baptist University (Riverside, CA) - Microsoft Technology Associate (98-381) - MySQL for Data Analysis (Udemy) - Pursuing: AWS Cloud Practitioner ## Analytics visuals <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="GitHub stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent" alt="GitHub streak"> </p> <!-- Animated footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=140&section=footer" alt="footer wave"/> </p>. MAKE SURE MY EXPERIENCE SHOULD BE RIGHT THIS TIME NOT INFOSYS INT MARS.
+from docx import Document
+from docx.shared import Pt, Inches, RGBColor
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
+
+doc = Document()
+
+# Page setup
+sec = doc.sections[0]
+sec.top_margin = Inches(0.5)
+sec.bottom_margin = Inches(0.5)
+sec.left_margin = Inches(0.6)
+sec.right_margin = Inches(0.6)
+
+# Base styles
+normal = doc.styles['Normal']
+normal.font.name = 'Calibri'
+normal.font.size = Pt(10.5)
+normal.paragraph_format.space_after = Pt(4)
+normal.paragraph_format.line_spacing = 1.15
+
+ACCENT = RGBColor(31, 58, 138)  # navy-ish accent
+
+def add_section_title(text):
+    p = doc.add_paragraph()
+    run = p.add_run(text.upper())
+    run.bold = True
+    run.font.size = Pt(12)
+    run.font.color.rgb = ACCENT
+    p.space_before = Pt(10)
+    p.space_after = Pt(4)
+
+def add_bullets(lines):
+    for line in lines:
+        p = doc.add_paragraph(style='List Bullet')
+        p.paragraph_format.space_after = Pt(2)
+        p.add_run(line)
+
+def add_experience(company, title, dates, bullets):
+    # Header line: Company — Title ............. Dates
+    p = doc.add_paragraph()
+    r1 = p.add_run(f"{company} — {title}")
+    r1.bold = True
+    p.paragraph_format.space_after = Pt(2)
+    # Add dates on next line (cleaner for ATS)
+    p2 = doc.add_paragraph(dates)
+    p2.paragraph_format.space_after = Pt(2)
+    add_bullets(bullets)
+
+# Header
+name_p = doc.add_paragraph()
+name_run = name_p.add_run("Gurdeep Singh")
+name_run.bold = True
+name_run.font.size = Pt(20)
+name_run.font.color.rgb = ACCENT
+name_p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+
+tag_p = doc.add_paragraph("Business Analytics Professional | MBA, MS-IT")
+tag_p.paragraph_format.space_after = Pt(2)
+
+contact_p = doc.add_paragraph("CA | 702-324-3864 | gurdeepsaini05@gmail.com")
+contact_p.paragraph_format.space_after = Pt(8)
+
+# Summary
+add_section_title("Summary")
+doc.add_paragraph(
+    "Results-driven Business Intelligence and Data Analytics Professional with 9+ years of experience in financial reporting, "
+    "forecasting, and data strategy across retail, beverage, and technology sectors. Skilled in SQL, Python, R, Tableau, Power BI, "
+    "and advanced Excel to deliver automated solutions, predictive analytics, and executive dashboards that drive revenue growth and "
+    "operational efficiency. Proven expertise in P&L management, budgeting, compliance reporting, and variance analysis, with a strong "
+    "record of aligning analytics to business objectives. Adept at ETL processes, ERP implementations, data warehousing, and data "
+    "governance frameworks, ensuring accuracy and scalability of enterprise reporting systems. Collaborative and detail-oriented; "
+    "experienced in leading cross-functional teams, mentoring analysts, and partnering with executives to translate raw data into "
+    "actionable insights. Pursuing AWS Cloud Practitioner Certification to expand cloud-based analytics expertise."
+)
+
+# Education
+add_section_title("Education")
+add_bullets([
+    "Master of Business Administration — California Baptist University, Riverside, CA",
+    "Master of Science in Information Technology — California Baptist University, Riverside, CA",
+])
+
+# Skills
+add_section_title("Skills")
+add_bullets([
+    "Financial Management: P&L Management, Budgeting & Forecasting, EBITDA Enhancement, Financial Compliance & Governance",
+    "Leadership: Stakeholder Collaboration, Team Leadership & Mentorship, Strategic Planning",
+    "Analytics & Tools: SQL, Tableau, Power BI, Advanced Excel (Pivot Tables, Forecasting Models, Dashboards)",
+    "Programming: Python, R (Data Modeling, Automation)",
+    "Other: Data Governance, Audit & Validation, Reporting Optimization, SOP Documentation",
+])
+
+# Experience
+add_section_title("Experience")
+
+add_experience(
+    "Burlington Stores, CA", "Business Intelligence Analyst", "Dec 2023 – Present",
+    [
+        "Lead BI initiatives to enhance operational efficiency, merchandising strategies, and sales performance through advanced reporting and visualization tools.",
+        "Design and deploy scalable Tableau and Power BI dashboards providing executives and managers real-time financial, operational, and customer insights.",
+        "Develop and optimize SQL queries and Python automation to streamline ETL, integration, cleansing, and validation across multiple systems.",
+        "Collaborate with finance, merchandising, and operations to support forecasting, budgeting, and inventory strategies that improve bottom-line results.",
+        "Implement data governance frameworks and ensure compliance with corporate and regulatory reporting requirements.",
+        "Train and mentor junior analysts on BI tools, SQL optimization, and financial reporting best practices.",
+    ]
+)
+
+add_experience(
+    "Monster Energy, Corona, CA", "Data Analyst", "Feb 2022 – Nov 2023",
+    [
+        "Delivered actionable insights on sales performance, marketing ROI, and financial outcomes informing executive decisions.",
+        "Built and maintained enterprise-grade Tableau and Power BI dashboards tracking KPIs across finance, sales, and operations.",
+        "Conducted variance analysis and financial modeling to evaluate promotional campaigns, distribution strategies, and supply chain performance.",
+        "Standardized KPI definitions and streamlined reporting, reducing turnaround time by 25%.",
+        "Developed automated data pipelines using SQL and Python to integrate disparate data sources into unified reporting environments.",
+        "Partnered with senior leadership to identify revenue opportunities and reduce operational inefficiencies.",
+    ]
+)
+
+add_experience(
+    "Mars, Incorporated (Infosys), NY", "Business & Data Analyst", "Oct 2019 – Dec 2021",
+    [
+        "Managed enterprise analytics projects supporting ERP and financial system implementations across multinational business units.",
+        "Collaborated with supply chain, finance, and IT to gather and translate business requirements.",
+        "Developed and implemented data integration solutions to unify ERP and warehouse management systems across global locations.",
+        "Designed dashboards and reports to track product traceability, inventory levels, and supply chain KPIs.",
+        "Developed advanced financial models for forecasting, scenario planning, and profitability analysis influencing strategic investment decisions.",
+        "Built executive dashboards in Tableau and Power BI for revenue, expense, and market trends.",
+        "Partnered with technology teams to migrate legacy reporting into modern BI platforms, improving scalability and user adoption.",
+        "Validated data migration to ensure accuracy, consistency, and compliance; delivered training and comprehensive documentation; supported change management and continuous improvements.",
+    ]
+)
+
+add_experience(
+    "Airtel, Delhi, India", "Data Analyst", "Jun 2017 – Sep 2019",
+    [
+        "Analyzed large datasets to support corporate budgeting, forecasting, and strategic planning efforts.",
+        "Implemented Power BI and Excel-based reporting frameworks to monitor business performance and identify growth opportunities.",
+        "Enhanced data governance procedures and validation processes to ensure high-quality financial and operational reporting.",
+        "Collaborated with finance, sales, and operations to align analytics with organizational KPIs and performance benchmarks.",
+        "Designed automation in SQL and VBA to reduce manual reporting effort and improve efficiency by 20%.",
+        "Supported leadership in evaluating market expansion and pricing strategies using data-driven insights.",
+    ]
+)
+
+add_experience(
+    "Domino’s, Delhi, India", "Data Analytics Intern", "Aug 2016 – May 2017",
+    [
+        "Assisted in managing client databases, financial records, and reporting processes for startup clients across technology and retail sectors.",
+        "Supported the design and testing of Tableau dashboards for client presentations and executive reviews.",
+        "Conducted data cleansing, transformation, and validation to ensure data quality for reporting and analysis.",
+        "Prepared financial and operational performance reports supporting client funding rounds and strategic decisions.",
+        "Researched and documented SOPs for data collection and reporting workflows.",
+    ]
+)
+
+# Certifications
+add_section_title("Certifications")
+add_bullets([
+    "Microsoft Technology Associate — Exam 98-381",
+    "MySQL for Data Analysis — Udemy",
+])
+
+# Save
+doc.save("Gurdeep_Singh_Resume.docx")
+print("Created Gurdeep_Singh_Resume.docx")
