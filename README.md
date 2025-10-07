@@ -1,6 +1,9 @@
 <!-- ======================= -->
-<!-- 🌟 Gurdeep Singh GitHub Portfolio -->
+<!-- 🌟 Gurdeep Singh - BI & Data Analytics Portfolio -->
 <!-- ======================= -->
+
+<!-- Hero Banner -->
+![Hero Banner](assets/hero-banner.png)
 
 # 👋 Hi, I'm Gurdeep Singh
 **Business Intelligence & Data Analytics Professional | MBA, MS-IT**  
@@ -13,7 +16,7 @@
 ---
 
 ## 🌟 About Me
-I am a **results-driven Business Analytics professional** with **9+ years of experience** in Retail, Beverage, and Technology sectors. I transform complex data into actionable insights using SQL, Python, R, Tableau, Power BI, and Advanced Excel.  
+I am a **results-driven Business Analytics professional** with **9+ years of experience** in Retail, Beverage, and Technology sectors. I transform complex data into actionable insights using **SQL, Python, R, Tableau, Power BI, and Excel**.  
 
 💡 **Specialties:**  
 - Financial Reporting & Forecasting  
@@ -24,66 +27,69 @@ I am a **results-driven Business Analytics professional** with **9+ years of exp
 
 ---
 
-## 📊 Analytics Framework I Follow
+## 📊 Analytics Framework
+![Analytics Framework](assets/analytics-framework.png)
 
-| Step | Description |
-|------|-------------|
-| **1. Define & Scope** | Align with business goals, KPIs & stakeholder requirements |
-| **2. Data Collection & Integration** | Gather data from ERP, CRM & other systems using SQL/Python |
-| **3. Data Cleaning & Governance** | Ensure accuracy, consistency & compliance |
-| **4. Data Analysis & Modeling** | Perform descriptive, predictive, and prescriptive analytics |
-| **5. Visualization & Dashboarding** | Build interactive dashboards in Tableau, Power BI, Excel |
-| **6. Reporting & Recommendations** | Deliver actionable insights to decision-makers |
-| **7. Automation & Optimization** | Streamline reports and automate data pipelines |
+**Steps I Follow:**  
+1. **Define & Scope** – Align with business goals, KPIs & stakeholder requirements  
+2. **Data Collection & Integration** – Gather data from ERP, CRM & other systems using SQL/Python  
+3. **Data Cleaning & Governance** – Ensure accuracy, consistency & compliance  
+4. **Data Analysis & Modeling** – Descriptive, predictive, and prescriptive analytics  
+5. **Visualization & Dashboarding** – Tableau, Power BI, Excel  
+6. **Reporting & Recommendations** – Actionable insights for stakeholders  
+7. **Automation & Optimization** – Streamline and automate pipelines  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### **1️⃣ Retail Sales Dashboard**
+![Retail Sales Dashboard](assets/retail-sales.png)  
 **Tools:** Tableau | Power BI | SQL  
-- Designed interactive dashboards to monitor outlet-level sales & revenue growth.  
-- Enabled managers to make data-driven merchandising and operational decisions.  
+- Monitored outlet-level sales & revenue growth  
+- Enabled data-driven merchandising and operational decisions  
 
 ### **2️⃣ Financial Forecasting & Variance Analysis**
+![Financial Forecasting](assets/forecasting.png)  
 **Tools:** Python | Excel | SQL  
-- Automated financial reporting, budgeting & forecasting.  
-- Reduced errors by 30% and improved decision-making accuracy.  
+- Automated monthly financial reporting & forecasting  
+- Reduced errors by 30% and improved accuracy  
 
 ### **3️⃣ Marketing & Sales ROI Analytics**
+![Marketing ROI](assets/marketing-roi.png)  
 **Tools:** Power BI | Python | R  
-- Evaluated promotional campaigns and ROI using predictive modeling.  
-- Identified revenue opportunities and optimized marketing spend.  
+- Evaluated promotional campaigns & ROI  
+- Optimized marketing spend & identified revenue opportunities  
 
 ### **4️⃣ ERP & Supply Chain Analytics**
+![ERP & Supply Chain](assets/erp-supplychain.png)  
 **Tools:** SQL | Tableau | Python  
-- Developed ETL pipelines and unified ERP reporting.  
-- Created dashboards tracking inventory, product traceability & KPIs.  
+- Developed ETL pipelines & unified ERP reporting  
+- Created dashboards tracking inventory & KPIs  
 
 ---
 
 ## 💻 Skills & Tools
+![Python](assets/python-badge.png)
+![R](assets/r-badge.png)
+![SQL](assets/sql-badge.png)
+![Tableau](assets/tableau-badge.png)
+![Power BI](assets/powerbi-badge.png)
+![Excel](assets/excel-badge.png)
+![VBA](assets/vba-badge.png)
+![AWS](assets/aws-badge.png)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]()
-[![VBA](https://img.shields.io/badge/VBA-867CC0?style=flat-square&logo=microsoft-visual-basic&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)]()
+---
+
+## 🏆 Certifications
+![MTA Badge](assets/mta-badge.png)
+![MySQL Certification](assets/mysql-cert.png)
+![AWS Cloud Practitioner](assets/aws-cert.png)
 
 ---
 
 ## 📈 GitHub Stats
 ![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurdeepsaini05-sudo&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 🏆 Certifications
-- Microsoft Technology Associate - Microsoft Badge-98-381  
-- MySQL for Data Analysis Certification – Udemy  
-- AWS Cloud Practitioner (In Progress)  
 
 ---
 
