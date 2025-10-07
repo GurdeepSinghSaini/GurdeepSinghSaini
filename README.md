@@ -1,79 +1,94 @@
-# 👋 Hi, I’m Gurdeep Singh
-**Business Analytics Professional | MBA, MS-IT | CA**  
-📧 gurdeepsaini05@gmail.com | 📱 702-324-3864  
+<!-- ======================= -->
+<!-- 🌟 Gurdeep Singh GitHub Portfolio -->
+<!-- ======================= -->
+
+# 👋 Hi, I'm Gurdeep Singh
+**Business Intelligence & Data Analytics Professional | MBA, MS-IT**  
+📍 California, USA | 📧 gurdeepsaini05@gmail.com | 📱 702-324-3864  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05) 
+[![Gmail](https://img.shields.io/badge/Gmail-gurdeepsaini05@gmail.com-red?style=flat-square&logo=gmail)](mailto:gurdeepsaini05@gmail.com)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
 ---
 
-## 🔹 About Me
-I am a **results-driven Business Intelligence and Data Analytics professional** with **9+ years of experience** across retail, beverage, and technology sectors. I specialize in transforming complex datasets into actionable insights, building executive dashboards, and implementing scalable analytics solutions that drive business growth and operational efficiency.
+## 🌟 About Me
+I am a **results-driven Business Analytics professional** with **9+ years of experience** in Retail, Beverage, and Technology sectors. I transform complex data into actionable insights using SQL, Python, R, Tableau, Power BI, and Advanced Excel.  
 
-I have hands-on experience with:
-- **Analytics Tools:** SQL, Tableau, Power BI, Advanced Excel  
-- **Programming & Automation:** Python, R, VBA  
-- **Finance & Operations:** P&L Management, Forecasting, Budgeting, Variance Analysis  
-- **Data Strategy:** ETL, ERP Integration, Data Governance, Reporting Optimization  
-
-Currently, I am pursuing **AWS Cloud Practitioner Certification** to expand my cloud-based analytics expertise.
-
----
-
-## 🔹 Analytics Framework for Projects
-I structure my analytics projects using a proven **BI & Analytics Framework**:
-
-1. **Define & Scope** – Understand business objectives, KPIs, and data requirements.  
-2. **Data Collection & Integration** – Gather data from ERP, CRM, or other operational systems using SQL, Python, and ETL processes.  
-3. **Data Cleaning & Governance** – Ensure accuracy, completeness, and consistency; implement validation checks.  
-4. **Data Analysis & Modeling** – Perform descriptive, diagnostic, predictive, and prescriptive analytics.  
-5. **Visualization & Dashboarding** – Build interactive dashboards in Tableau, Power BI, or Excel for real-time insights.  
-6. **Reporting & Recommendations** – Communicate actionable insights to stakeholders with clear business impact.  
-7. **Automation & Optimization** – Automate recurring reports, optimize queries, and implement scalable solutions.  
-
-This framework ensures **data-driven decisions and measurable outcomes** for finance, operations, sales, and marketing functions.
+💡 **Specialties:**  
+- Financial Reporting & Forecasting  
+- P&L Management & Budgeting  
+- ETL, Data Governance & ERP Integrations  
+- Executive Dashboards & KPI Monitoring  
+- Predictive Analytics & Automation  
 
 ---
 
-## 🔹 Featured Projects
+## 📊 Analytics Framework I Follow
 
-### 1. **Retail Sales Dashboard**
-**Tools:** Tableau, Power BI, SQL  
-- Designed dashboards to analyze outlet-level sales, product demand, and revenue growth.  
-- Enabled executives to monitor KPIs in real-time, improving operational efficiency and merchandising strategy.
-
-### 2. **Financial Forecasting & Variance Analysis**
-**Tools:** Python, Excel, SQL  
-- Automated monthly financial reporting and forecasting processes.  
-- Conducted variance analysis that reduced errors by 30% and improved decision-making accuracy.
-
-### 3. **Marketing & Sales ROI Analytics**
-**Tools:** Python, Power BI, R  
-- Evaluated marketing campaigns and promotional strategies using predictive modeling.  
-- Built dashboards to identify revenue opportunities and optimize spend.
-
-### 4. **ERP & Supply Chain Analytics**
-**Tools:** SQL, Tableau, Python  
-- Developed data integration pipelines for ERP and warehouse systems.  
-- Created dashboards to track product traceability, inventory levels, and supply chain KPIs.
+| Step | Description |
+|------|-------------|
+| **1. Define & Scope** | Align with business goals, KPIs & stakeholder requirements |
+| **2. Data Collection & Integration** | Gather data from ERP, CRM & other systems using SQL/Python |
+| **3. Data Cleaning & Governance** | Ensure accuracy, consistency & compliance |
+| **4. Data Analysis & Modeling** | Perform descriptive, predictive, and prescriptive analytics |
+| **5. Visualization & Dashboarding** | Build interactive dashboards in Tableau, Power BI, Excel |
+| **6. Reporting & Recommendations** | Deliver actionable insights to decision-makers |
+| **7. Automation & Optimization** | Streamline reports and automate data pipelines |
 
 ---
 
-## 🔹 Skills & Expertise
-- **Analytics & BI:** Tableau, Power BI, SQL, Advanced Excel, Python, R  
-- **Finance & Operations:** Budgeting, Forecasting, P&L Management, Compliance  
-- **Data Management:** ETL, Data Warehousing, Data Governance, Audit & Validation  
-- **Leadership:** Team Mentorship, Stakeholder Collaboration, Strategic Planning  
+## 🚀 Featured Projects
+
+### **1️⃣ Retail Sales Dashboard**
+**Tools:** Tableau | Power BI | SQL  
+- Designed interactive dashboards to monitor outlet-level sales & revenue growth.  
+- Enabled managers to make data-driven merchandising and operational decisions.  
+
+### **2️⃣ Financial Forecasting & Variance Analysis**
+**Tools:** Python | Excel | SQL  
+- Automated financial reporting, budgeting & forecasting.  
+- Reduced errors by 30% and improved decision-making accuracy.  
+
+### **3️⃣ Marketing & Sales ROI Analytics**
+**Tools:** Power BI | Python | R  
+- Evaluated promotional campaigns and ROI using predictive modeling.  
+- Identified revenue opportunities and optimized marketing spend.  
+
+### **4️⃣ ERP & Supply Chain Analytics**
+**Tools:** SQL | Tableau | Python  
+- Developed ETL pipelines and unified ERP reporting.  
+- Created dashboards tracking inventory, product traceability & KPIs.  
 
 ---
 
-## 🔹 Certifications
+## 💻 Skills & Tools
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)]()
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]()
+[![VBA](https://img.shields.io/badge/VBA-867CC0?style=flat-square&logo=microsoft-visual-basic&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)]()
+
+---
+
+## 📈 GitHub Stats
+![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurdeepsaini05-sudo&show_icons=true&count_private=true&theme=radical)
+
+---
+
+## 🏆 Certifications
 - Microsoft Technology Associate - Microsoft Badge-98-381  
 - MySQL for Data Analysis Certification – Udemy  
+- AWS Cloud Practitioner (In Progress)  
 
 ---
 
-## 🔹 Let’s Connect
-- LinkedIn: [linkedin.com/in/gurdeepsaini05](https://www.linkedin.com/in/gurdeepsaini05)  
-- Email: gurdeepsaini05@gmail.com  
+## 💬 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)  
+📧 gurdeepsaini05@gmail.com  
 
----
-
-> “Transforming data into actionable insights is my passion, and I aim to empower businesses with measurable growth through analytics.”
+> "Transforming data into actionable insights is my passion. I empower businesses to grow through analytics and innovation."
