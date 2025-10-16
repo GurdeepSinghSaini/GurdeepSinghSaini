@@ -1,6 +1,6 @@
 <!-- 🌟 Gurdeep Singh - BI & Data Analytics Portfolio (Canva Premium Style) -->
 
-![Hero Banner](assets/hero-banner.png)
+
 
 # 👋 Hi, I'm **Gurdeep Singh**
 
