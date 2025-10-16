@@ -7,7 +7,7 @@
 *Business Intelligence & Data Analytics Professional | MBA, MS-IT*
 
 📍 California, USA | 📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📱 702-324-3864  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSingh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeep-singh-analyst/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/GurdeepSinghSaini)  
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge&logo=tableau)]()  
 [![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge&logo=microsoft-power-bi)]()
@@ -16,19 +16,18 @@
 
 ## 🌟 About Me
 
-I am a **Business Intelligence & Data Analytics professional** with over **9 years of experience** in the retail, beverage, and technology industries.  
-I transform **raw, complex datasets into strategic business insights** through automated reporting, interactive dashboards, forecasting, and BI solutions.
+I’m a **Business Intelligence & Data Analytics Professional** with over **9 years of experience** in the retail, beverage, and technology sectors.  
+I specialize in transforming **complex data into clear business insights** through **dashboards**, **forecasting**, and **automated BI solutions**.
 
-💡 **Core Strengths:**
-
+💡 **Core Strengths**  
 - Advanced BI Solutions (Power BI, Tableau)  
 - Financial Forecasting & Reporting  
 - SQL, Python, R Programming  
 - ETL Pipelines & Data Governance  
 - KPI Dashboards for Finance, Sales & Operations  
-- Cross-functional Business Collaboration
+- Cross-functional Collaboration
 
-✨ *My mission is to make data simple, actionable, and impactful for decision-makers.*
+✨ *My mission: make data simple, actionable, and impactful for decision-makers.*
 
 ---
 
@@ -36,59 +35,51 @@ I transform **raw, complex datasets into strategic business insights** through a
 
 ![Analytics Framework](assets/analytics-framework.png)
 
-| Step                        | Process                   | Key Tools           |
-| --------------------------- | ------------------------- | ------------------- |
-| **1. Define & Scope**       | Business Objectives, KPIs | Miro, Confluence    |
-| **2. Data Integration**     | ETL, ERP, APIs            | SQL, Python         |
-| **3. Data Cleaning**        | Validation, Governance    | Python, Excel       |
-| **4. Analysis & Modeling**  | Forecasting, Variance     | R, Python           |
-| **5. Visualization**        | Dashboards & Reports      | Tableau, Power BI   |
-| **6. Insights Delivery**    | Strategy & Action Plans   | Stakeholder Reviews |
-| **7. Automation & Scaling** | Reporting Optimization    | Python, SQL, AWS    |
+| Step                        | Process                   | Tools                     |
+| --------------------------- | ------------------------- | ------------------------- |
+| 1. Define & Scope           | Business Goals, KPIs      | Miro, Confluence          |
+| 2. Data Integration         | ETL, ERP, APIs            | SQL, Python               |
+| 3. Data Cleaning            | Validation, Governance    | Python, Excel             |
+| 4. Analysis & Modeling      | Forecasting, Variance     | R, Python                 |
+| 5. Visualization            | Dashboards & Reports      | Tableau, Power BI         |
+| 6. Insights Delivery        | Strategy & Action Plans   | Stakeholder Reviews       |
+| 7. Automation & Scaling     | Reporting Optimization    | Python, SQL, AWS          |
 
-🧭 *This framework blends engineering precision with business storytelling to drive measurable results.*
+🧭 *This framework blends engineering precision with business storytelling.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏪 **1. Retail Sales Dashboard**
-
-![Retail Sales](assets/retail-sales.png)
-
-- 📊 *Tools:* Tableau | Power BI | SQL  
-- Real-time outlet-level performance dashboards to track product demand and revenue growth.  
-- Increased marketing ROI and improved promotional strategies.
+### 🏪 Retail Sales Dashboard
+![Retail Sales](assets/retail-sales.png)  
+📊 *Tableau | Power BI | SQL*  
+Real-time outlet performance dashboards tracking product demand and revenue growth.  
+→ *Improved marketing ROI and promotional strategies.*
 
 ---
 
-### 💰 **2. Financial Forecasting & Variance Analysis**
-
-![Forecasting](assets/forecasting.png)
-
-- 🧮 *Tools:* Python | Excel | SQL  
-- Automated monthly forecasting & variance reports.  
-- Reduced manual reporting time, improved strategic decisions.
+### 💰 Financial Forecasting & Variance Analysis
+![Forecasting](assets/forecasting.png)  
+🧮 *Python | Excel | SQL*  
+Automated monthly forecasts and variance reports.  
+→ *Reduced manual reporting time, improved decision-making.*
 
 ---
 
-### 📈 **3. Marketing & Sales ROI Analytics**
-
-![Marketing ROI](assets/marketing-roi.png)
-
-- 🧠 *Tools:* Power BI | R | Python  
-- Predicted marketing ROI and optimized spend allocation.  
-- Enhanced campaign performance and reduced costs.
+### 📈 Marketing & Sales ROI Analytics
+![Marketing ROI](assets/marketing-roi.png)  
+🧠 *Power BI | R | Python*  
+Predicted ROI and optimized marketing spend.  
+→ *Enhanced campaign performance and reduced costs.*
 
 ---
 
-### 🏭 **4. ERP & Supply Chain Analytics**
-
-![ERP & Supply Chain](assets/erp-supplychain.png)
-
-- ⚡ *Tools:* SQL | Tableau | Python  
-- Integrated ERP & WMS systems with unified BI reporting.  
-- Boosted inventory accuracy and operational visibility.
+### 🏭 ERP & Supply Chain Analytics
+![ERP Supply Chain](assets/erp-supplychain.png)  
+⚡ *SQL | Tableau | Python*  
+Integrated ERP & WMS with unified BI reporting.  
+→ *Boosted inventory accuracy and operational visibility.*
 
 ---
 
@@ -127,20 +118,23 @@ I transform **raw, complex datasets into strategic business insights** through a
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSingh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeep-singh-analyst/)  
 📧 **[gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com)**  
 📱 **702-324-3864**
 
-> “Transforming data into actionable insights to drive measurable business impact.”
+> *“Transforming data into actionable insights to drive measurable business impact.”*
 
 ---
 
-<!-- 🪄 Canva Pro Tips:
-- Replace `assets/*.png` with Canva-designed banners & infographics.
-- Use a clean gradient hero banner with name/title & tool icons.
-- Use Canva grid layouts for Projects & Skills sections.
-- Add soft animations or hover effects for web export.
-- Suggested fonts: Montserrat (Headings), Inter (Body)
-- Suggested colors: Navy (#0b3d91), Teal (#00a99d), Light Gray (#f5f5f5)
-- Export as both PNG and PDF for portfolio.
+<!-- 🪄 Canva Pro Design Tips:
+- Save all hero/project/diagram visuals inside `assets/` (e.g., hero-banner.png, retail-sales.png, analytics-framework.png).
+- Use Canva to create:
+  • Hero Banner with name & icons
+  • Analytics Framework diagram
+  • Dashboard previews (4 projects)
+  • Certification badge images
+- Fonts: Montserrat (Headings), Inter (Body)
+- Colors: Navy (#0b3d91), Teal (#00a99d), Light Gray (#f5f5f5)
+- Export images as PNG with transparent or soft gradient backgrounds.
+- Keep it clean, modern, and mobile-friendly.
 -->
