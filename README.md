@@ -6,26 +6,27 @@
 
 *Business Intelligence & Data Analytics Professional | MBA, MS-IT*
 
-📍 California, USA | 📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📱 702-324-3864
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge\&logo=github)](https://github.com/GurdeepSinghSaini)
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge\&logo=tableau)]()
-[![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge\&logo=microsoft-power-bi)]()
+📍 California, USA | 📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📱 702-324-3864  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/GurdeepSinghSaini)  
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge&logo=tableau)]()  
+[![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?style=for-the-badge&logo=microsoft-power-bi)]()
 
 ---
 
 ## 🌟 About Me
 
-I am a **Business Intelligence & Data Analytics professional** with over **9 years of experience** in the retail, beverage, and technology industries. I transform **raw, complex datasets into strategic business insights** through automated reporting, interactive dashboards, forecasting, and BI solutions.
+I am a **Business Intelligence & Data Analytics professional** with over **9 years of experience** in the retail, beverage, and technology industries.  
+I transform **raw, complex datasets into strategic business insights** through automated reporting, interactive dashboards, forecasting, and BI solutions.
 
 💡 **Core Strengths:**
 
-* Advanced BI Solutions (Power BI, Tableau)
-* Financial Forecasting & Reporting
-* SQL, Python, R Programming
-* ETL Pipelines & Data Governance
-* KPI Dashboards for Finance, Sales & Operations
-* Cross-functional Business Collaboration
+- Advanced BI Solutions (Power BI, Tableau)  
+- Financial Forecasting & Reporting  
+- SQL, Python, R Programming  
+- ETL Pipelines & Data Governance  
+- KPI Dashboards for Finance, Sales & Operations  
+- Cross-functional Business Collaboration
 
 ✨ *My mission is to make data simple, actionable, and impactful for decision-makers.*
 
@@ -55,45 +56,51 @@ I am a **Business Intelligence & Data Analytics professional** with over **9 yea
 
 ![Retail Sales](assets/retail-sales.png)
 
-* 📊 *Tools:* Tableau | Power BI | SQL
-* Real-time outlet-level performance dashboards to track product demand and revenue growth.
-* Increased marketing ROI and improved promotional strategies.
+- 📊 *Tools:* Tableau | Power BI | SQL  
+- Real-time outlet-level performance dashboards to track product demand and revenue growth.  
+- Increased marketing ROI and improved promotional strategies.
+
+---
 
 ### 💰 **2. Financial Forecasting & Variance Analysis**
 
 ![Forecasting](assets/forecasting.png)
 
-* 🧮 *Tools:* Python | Excel | SQL
-* Automated monthly forecasting & variance reports.
-* Reduced manual reporting time, improved strategic decisions.
+- 🧮 *Tools:* Python | Excel | SQL  
+- Automated monthly forecasting & variance reports.  
+- Reduced manual reporting time, improved strategic decisions.
+
+---
 
 ### 📈 **3. Marketing & Sales ROI Analytics**
 
 ![Marketing ROI](assets/marketing-roi.png)
 
-* 🧠 *Tools:* Power BI | R | Python
-* Predicted marketing ROI and optimized spend allocation.
-* Enhanced campaign performance and reduced costs.
+- 🧠 *Tools:* Power BI | R | Python  
+- Predicted marketing ROI and optimized spend allocation.  
+- Enhanced campaign performance and reduced costs.
+
+---
 
 ### 🏭 **4. ERP & Supply Chain Analytics**
 
 ![ERP & Supply Chain](assets/erp-supplychain.png)
 
-* ⚡ *Tools:* SQL | Tableau | Python
-* Integrated ERP & WMS systems with unified BI reporting.
-* Boosted inventory accuracy and operational visibility.
+- ⚡ *Tools:* SQL | Tableau | Python  
+- Integrated ERP & WMS systems with unified BI reporting.  
+- Boosted inventory accuracy and operational visibility.
 
 ---
 
 ## 🧰 Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=microsoft-power-bi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 🛠 *Also experienced with Git, Docker, ETL tools, and data governance practices.*
 
@@ -105,23 +112,23 @@ I am a **Business Intelligence & Data Analytics professional** with over **9 yea
 ![MySQL](assets/mysql-cert.png)
 ![AWS](assets/aws-cert.png)
 
-* Microsoft Technology Associate – Badge 98-381
-* MySQL for Data Analysis – Udemy
-* AWS Cloud Practitioner *(in progress)*
+- Microsoft Technology Associate – Badge 98-381  
+- MySQL for Data Analysis – Udemy  
+- AWS Cloud Practitioner *(in progress)*
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini\&show_icons=true\&count_private=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini\&layout=compact\&theme=radical)
+![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)
-📧 **[gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSaini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeepsaini05)  
+📧 **[gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com)**  
 📱 **702-324-3864**
 
 > “Transforming data into actionable insights to drive measurable business impact.”
