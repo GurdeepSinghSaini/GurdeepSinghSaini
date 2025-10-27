@@ -1,7 +1,5 @@
 <!-- 🌟 Gurdeep Singh - BI & Data Analytics Portfolio (Canva Premium Style) -->
 
-
-
 # 👋 Hi, I'm **Gurdeep Singh**
 
 *Business Intelligence & Data Analytics Professional | MBA, MS-IT*
@@ -71,7 +69,7 @@ Automated monthly forecasts and variance reports.
 ![Marketing ROI](assets/marketing-roi.png)  
 🧠 *Power BI | R | Python*  
 Predicted ROI and optimized marketing spend.  
-→ *Enhanced campaign performance and reduced costs.*
+→ *Enhanced campaign performance and reduced costs.*  
 
 ---
 
