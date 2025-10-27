@@ -1,6 +1,6 @@
 # 💼 Gurdeep Singh
 
-**Business Analytics Professional | MBA, MS-IT**  
+**Business Intelligence & Data Analytics Professional**  
 📍 California, USA  
 📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📞 702-324-3864  
 🔗 [LinkedIn](https://www.linkedin.com/in/gurdeep-singh-analyst/) | [GitHub](https://github.com/GurdeepSinghSaini)
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I am a results-driven Business Intelligence and Data Analytics Professional with over **9 years of experience** across retail, beverage, and technology sectors. I am skilled at leveraging data-driven approaches to improve business outcomes and drive transformational change through advanced data strategies.
+I am a results-driven **Business Intelligence and Data Analytics Professional** with over **9 years of experience** spanning the **retail**, **beverage**, and **technology** sectors. My expertise lies in transforming complex datasets into actionable insights through innovative dashboards and automated solutions that drive strategic decision-making and operational improvements.
 
 ---
 
@@ -42,31 +42,38 @@ I am a results-driven Business Intelligence and Data Analytics Professional with
 ## 🚀 Featured Projects
 
 ### 🏬 Retail Sales Performance Dashboard
-![Retail Sales](https://placeholder.com/200)  
-*Tools: Tableau, SQL*  
-**Description:** Developed a dashboard to visualize sales performance across multiple outlets, enhancing decision-making on inventory management.  
-**Impact:** Improved promotional strategies and contributed to a 15% increase in sales.
+![Retail Sales](https://via.placeholder.com/400x200)  
+*Tools Used: Tableau, SQL*  
+**Description:** Developed a dynamic dashboard to visualize sales performance across multiple outlets, enabling marketing teams to optimize inventory management.  
+**Impact:** Contributed to a **15% increase in sales** through targeted promotional strategies.
 
 ---
 
 ### 📊 Financial Forecasting & Variance Analysis
-![Financial Forecasting](https://placeholder.com/200)  
-*Tools: Python, Excel*  
-**Description:** Automated financial forecasting and variance analysis to enable timely reporting and accuracy in budget adherence.  
-**Impact:** Reduced manual reporting time by 30% and improved accuracy in financial reporting.
+![Financial Forecasting](https://via.placeholder.com/400x200)  
+*Tools Used: Python, Excel*  
+**Description:** Automated financial forecasting and variance analysis, enhancing reporting efficiency.  
+**Impact:** Reduced manual reporting time by **30%**, improving accuracy in financial tracking.
 
 ---
 
 ### 📈 Marketing ROI Optimization
-![Marketing ROI](https://placeholder.com/200)  
-*Tools: Power BI, R*  
-**Description:** Analyzed marketing campaigns to evaluate ROI and optimize budget allocations.  
-**Impact:** Increased campaign effectiveness by identifying high-impact strategies.
+![Marketing ROI](https://via.placeholder.com/400x200)  
+*Tools Used: Power BI, R*  
+**Description:** Conducted comprehensive analyses of marketing campaigns to evaluate ROI and optimize budget allocation.  
+**Impact:** Increased campaign effectiveness by identifying high-impact strategies, leading to a **20% reduction in marketing spend**.
+
+---
+
+### 🏭 ERP & Supply Chain Analytics
+![ERP Supply Chain](https://via.placeholder.com/400x200)  
+*Tools Used: SQL, Tableau, Python*  
+**Description:** Integrated ERP and WMS systems into unified reporting dashboards for improved operational visibility.  
+**Impact:** Boosted inventory accuracy by **25%**, enhancing supply chain efficiency.
 
 ---
 
 ## 🏆 Certifications
-
 - **Microsoft Technology Associate** (Badge 98-381)  
 - **MySQL for Data Analysis** (Udemy)  
 - **AWS Cloud Practitioner** *(In Progress)*
@@ -77,6 +84,8 @@ I am a results-driven Business Intelligence and Data Analytics Professional with
 
 ![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical)
+
+### Total Stars Earned: ⭐️ **10**
 
 ---
 
