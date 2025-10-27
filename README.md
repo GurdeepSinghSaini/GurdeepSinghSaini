@@ -1,8 +1,8 @@
-<!-- 🌟 Gurdeep Singh - BI & Data Analytics Portfolio (Canva Premium Style) -->
+<!-- 🌟 Gurdeep Singh - BI & Data Analytics Portfolio -->
 
 # 👋 Hi, I'm **Gurdeep Singh**
 
-*Business Intelligence & Data Analytics Professional | MBA, MS-IT*
+**Business Intelligence & Data Analytics Professional | MBA, MS-IT**
 
 📍 California, USA | 📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📱 702-324-3864  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSingh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurdeep-singh-analyst/)  
@@ -14,36 +14,33 @@
 
 ## 🌟 About Me
 
-I’m a **Business Intelligence & Data Analytics Professional** with over **9 years of experience** in the retail, beverage, and technology sectors.  
-I specialize in transforming **complex data into clear business insights** through **dashboards**, **forecasting**, and **automated BI solutions**.
+I’m a dedicated **Business Intelligence & Data Analytics Professional** with over **9 years of experience** in the retail, beverage, and technology sectors. My passion lies in converting **complex data into actionable insights** through **innovative dashboards**, **forecasting** methodologies, and **automated BI solutions**.
 
-💡 **Core Strengths**  
-- Advanced BI Solutions (Power BI, Tableau)  
-- Financial Forecasting & Reporting  
-- SQL, Python, R Programming  
-- ETL Pipelines & Data Governance  
-- KPI Dashboards for Finance, Sales & Operations  
-- Cross-functional Collaboration
+### 💡 Core Competencies:
+- **BI Solutions**: Proficient in Power BI and Tableau
+- **Financial Analytics**: Exceptional capability in forecasting and reporting
+- **Programming**: Skilled in SQL, Python, and R
+- **Data Management**: Expertise in ETL pipelines and data governance
+- **Collaboration**: Strong teamwork and cross-functional collaboration skills
 
-✨ *My mission: make data simple, actionable, and impactful for decision-makers.*
+✨ *My vision: Simplifying data to create impactful business strategies.* 
 
 ---
 
 ## 🧠 My Analytics Framework
-
 ![Analytics Framework](assets/analytics-framework.png)
 
-| Step                        | Process                   | Tools                     |
-| --------------------------- | ------------------------- | ------------------------- |
-| 1. Define & Scope           | Business Goals, KPIs      | Miro, Confluence          |
-| 2. Data Integration         | ETL, ERP, APIs            | SQL, Python               |
-| 3. Data Cleaning            | Validation, Governance    | Python, Excel             |
-| 4. Analysis & Modeling      | Forecasting, Variance     | R, Python                 |
-| 5. Visualization            | Dashboards & Reports      | Tableau, Power BI         |
-| 6. Insights Delivery        | Strategy & Action Plans   | Stakeholder Reviews       |
-| 7. Automation & Scaling     | Reporting Optimization    | Python, SQL, AWS          |
+| **Step**                  | **Process**                          | **Tools**                  |
+|---------------------------|--------------------------------------|----------------------------|
+| 1. Define & Scope         | Identify Business Goals & KPIs       | Miro, Confluence           |
+| 2. Data Integration       | ETL processes, APIs                   | SQL, Python                |
+| 3. Data Cleaning          | Validation and Governance             | Python, Excel              |
+| 4. Analysis & Modeling    | Forecasting and Variance Analysis    | R, Python                  |
+| 5. Visualization          | Developing Dashboards                | Tableau, Power BI          |
+| 6. Insights Delivery      | Strategic Actions & Recommendations   | Stakeholder Reviews        |
+| 7. Automation & Scaling   | Optimize Reporting Systems            | Python, SQL, AWS           |
 
-🧭 *This framework blends engineering precision with business storytelling.*
+🧭 *This framework merges technical precision with compelling storytelling.*
 
 ---
 
@@ -51,33 +48,33 @@ I specialize in transforming **complex data into clear business insights** throu
 
 ### 🏪 Retail Sales Dashboard
 ![Retail Sales](assets/retail-sales.png)  
-📊 *Tableau | Power BI | SQL*  
-Real-time outlet performance dashboards tracking product demand and revenue growth.  
-→ *Improved marketing ROI and promotional strategies.*
+📊 *Tools: Tableau, Power BI, SQL*  
+**Description:** Real-time dashboards providing insights on outlet performance, product demand, and revenue growth.  
+**Impact:** Enhanced marketing ROI and improved promotional strategies.
 
 ---
 
 ### 💰 Financial Forecasting & Variance Analysis
 ![Forecasting](assets/forecasting.png)  
-🧮 *Python | Excel | SQL*  
-Automated monthly forecasts and variance reports.  
-→ *Reduced manual reporting time, improved decision-making.*
+🧮 *Tools: Python, Excel, SQL*  
+**Description:** Automated forecasting processes for monthly financial reports.  
+**Impact:** Streamlined reporting time and improved decision-making accuracy.
 
 ---
 
 ### 📈 Marketing & Sales ROI Analytics
 ![Marketing ROI](assets/marketing-roi.png)  
-🧠 *Power BI | R | Python*  
-Predicted ROI and optimized marketing spend.  
-→ *Enhanced campaign performance and reduced costs.*  
+🧠 *Tools: Power BI, R, Python*  
+**Description:** Analytics to predict ROI and optimize marketing expenditure.  
+**Impact:** Improved campaign performance and cost reductions.
 
 ---
 
 ### 🏭 ERP & Supply Chain Analytics
 ![ERP Supply Chain](assets/erp-supplychain.png)  
-⚡ *SQL | Tableau | Python*  
-Integrated ERP & WMS with unified BI reporting.  
-→ *Boosted inventory accuracy and operational visibility.*
+⚡ *Tools: SQL, Tableau, Python*  
+**Description:** Integration of ERP & WMS with unified BI reporting for operational excellence.  
+**Impact:** Increased inventory accuracy and enhanced visibility.
 
 ---
 
@@ -91,24 +88,19 @@ Integrated ERP & WMS with unified BI reporting.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-🛠 *Also experienced with Git, Docker, ETL tools, and data governance practices.*
+*Experienced with Git, Docker, ETL tools, and data governance practices.*
 
 ---
 
 ## 🏆 Certifications
 
-![MTA](assets/mta-badge.png)
-![MySQL](assets/mysql-cert.png)
-![AWS](assets/aws-cert.png)
-
-- Microsoft Technology Associate – Badge 98-381  
-- MySQL for Data Analysis – Udemy  
-- AWS Cloud Practitioner *(in progress)*
+- ![MTA](assets/mta-badge.png) Microsoft Technology Associate – Badge 98-381  
+- ![MySQL](assets/mysql-cert.png) MySQL for Data Analysis – Udemy  
+- ![AWS](assets/aws-cert.png) AWS Cloud Practitioner *(in progress)*
 
 ---
 
 ## 📊 GitHub Analytics
-
 ![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical)
 
@@ -125,14 +117,14 @@ Integrated ERP & WMS with unified BI reporting.
 ---
 
 <!-- 🪄 Canva Pro Design Tips:
-- Save all hero/project/diagram visuals inside `assets/` (e.g., hero-banner.png, retail-sales.png, analytics-framework.png).
-- Use Canva to create:
+- Save visuals inside `assets/` (e.g., hero-banner.png, retail-sales.png, analytics-framework.png).
+- Use Canva for:
   • Hero Banner with name & icons
   • Analytics Framework diagram
-  • Dashboard previews (4 projects)
+  • Project Dashboard previews
   • Certification badge images
 - Fonts: Montserrat (Headings), Inter (Body)
 - Colors: Navy (#0b3d91), Teal (#00a99d), Light Gray (#f5f5f5)
-- Export images as PNG with transparent or soft gradient backgrounds.
-- Keep it clean, modern, and mobile-friendly.
+- Export images as PNG with transparent or gradient backgrounds.
+- Maintain a clean, modern, and mobile-friendly design.
 -->
