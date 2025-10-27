@@ -1,97 +1,89 @@
-# 🌟 Gurdeep Singh
+# 💼 Gurdeep Singh
 
-**Business Intelligence & Data Analytics Professional**  
+**Business Analytics Professional | MBA, MS-IT**  
 📍 California, USA  
-📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📱 702-324-3864  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSingh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurdeep-singh-analyst/)  
-[![GitHub](https://img.shields.io/badge/GitHub-GurdeepSinghSaini-black?style=flat-square&logo=github)](https://github.com/GurdeepSinghSaini)  
-[![Tableau](https://img.shields.io/badge/Tableau-Visual%20Analytics-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/YOUR-TABLEAU-PUBLIC)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=microsoft-power-bi)]()   
+📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com) | 📞 702-324-3864  
+🔗 [LinkedIn](https://www.linkedin.com/in/gurdeep-singh-analyst/) | [GitHub](https://github.com/GurdeepSinghSaini)
 
 ---
 
-## 👨‍💼 About Me
+## 🌟 About Me
 
-Results-driven **Business Intelligence and Data Analytics Professional** with over **9 years of experience** in **financial reporting**, **data strategy**, and **forecasting** across various sectors including **retail**, **beverage**, and **technology**. I excel in delivering automated solutions and predictive analytics through tools such as **SQL**, **Python**, **R**, **Tableau**, and **Power BI**.
-
-My mission is to transform complex datasets into actionable insights that drive strategic decision-making and operational improvements.
+I am a results-driven Business Intelligence and Data Analytics Professional with over **9 years of experience** across retail, beverage, and technology sectors. I am skilled at leveraging data-driven approaches to improve business outcomes and drive transformational change through advanced data strategies.
 
 ---
 
-## 🛠 Skills
+## 🧠 My Skills
 
-- **Analytics & Tools:** SQL, Tableau, Power BI, Advanced Excel
-- **Programming:** Python, R
-- **Financial Management:** P&L Management, Budgeting & Forecasting
-- **Leadership:** Stakeholder Collaboration, Team Leadership & Mentorship
-- **Other:** Data Governance, Reporting Optimization
-
----
-
-## 🧠 Analytics Framework
-
-1. **Define & Scope:** Identify business objectives, KPIs
-2. **Data Integration:** ETL processes, ERP systems
-3. **Data Cleaning:** Validation, quality assurance
-4. **Analysis & Modeling:** Forecasting, variance analysis
-5. **Visualization:** Develop dashboards and reports
-6. **Insights Delivery:** Strategic recommendations
-7. **Automation & Scaling:** Optimize reporting systems
+- **Programming & Analytics Tools:**  
+  - SQL, Python, R
+  - Tableau, Power BI, Advanced Excel
+- **Financial Management:**  
+  - P&L Management, Budgeting & Forecasting, Financial Compliance
+- **Leadership & Collaboration:**  
+  - Team Leadership, Stakeholder Engagement, Cross-Functional Collaboration
+- **Data Management:**  
+  - ETL Processes, Data Governance, Reporting Optimization
 
 ---
 
-## 🚀 Projects
+## 🔍 My Analytics Framework
 
-### 🏪 Retail Sales Dashboard
-![Retail Sales Dashboard](assets/your-retail-sales-dashboard-image.png)  
-*Tools: Tableau, Power BI, SQL*  
-**Description:** Developed real-time dashboards tracking outlet performance, optimizing marketing strategies.  
-**Impact:** Improved marketing ROI and promotional effectiveness.
-
----
-
-### 💡 Financial Forecasting & Variance Analysis
-![Financial Forecasting](assets/your-forecasting-image.png)  
-*Tools: Python, Excel, SQL*  
-**Description:** Automated forecasting and variance reports to enhance decision-making efficiency.  
-**Impact:** Cut manual reporting time significantly.
+1. **Define Goals:** Identify business objectives and KPIs
+2. **Data Integration:** Implement ETL processes from various sources
+3. **Data Cleansing:** Ensure data accuracy and quality checks
+4. **Analysis & Modeling:** Perform forecasting and scenario analysis
+5. **Visualization:** Create executive dashboards and reports
+6. **Delivery:** Present insights and strategic recommendations
+7. **Automation:** Streamline reporting and operational processes
 
 ---
 
-### 📈 Marketing & ROI Analytics
-![Marketing ROI](assets/your-marketing-roi-image.png)  
-*Tools: Power BI, R, Python*  
-**Description:** Analyzed marketing spend and predicted ROI to optimize budget allocation.  
-**Impact:** Enhanced campaign performance and reduced costs.
+## 🚀 Featured Projects
+
+### 🏬 Retail Sales Performance Dashboard
+![Retail Sales](https://placeholder.com/200)  
+*Tools: Tableau, SQL*  
+**Description:** Developed a dashboard to visualize sales performance across multiple outlets, enhancing decision-making on inventory management.  
+**Impact:** Improved promotional strategies and contributed to a 15% increase in sales.
 
 ---
 
-### 🏭 ERP & Supply Chain Analytics
-![ERP Supply Chain](assets/your-erp-image.png)  
-*Tools: SQL, Tableau, Python*  
-**Description:** Integrated ERP and WMS into unified reporting dashboards.  
-**Impact:** Increased inventory accuracy and operational insights.
+### 📊 Financial Forecasting & Variance Analysis
+![Financial Forecasting](https://placeholder.com/200)  
+*Tools: Python, Excel*  
+**Description:** Automated financial forecasting and variance analysis to enable timely reporting and accuracy in budget adherence.  
+**Impact:** Reduced manual reporting time by 30% and improved accuracy in financial reporting.
 
 ---
 
-## 📊 GitHub Stats
-![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical)
+### 📈 Marketing ROI Optimization
+![Marketing ROI](https://placeholder.com/200)  
+*Tools: Power BI, R*  
+**Description:** Analyzed marketing campaigns to evaluate ROI and optimize budget allocations.  
+**Impact:** Increased campaign effectiveness by identifying high-impact strategies.
 
 ---
 
 ## 🏆 Certifications
 
-- **Microsoft Technology Associate** – Badge 98-381  
-- **MySQL for Data Analysis** – Udemy  
-- **AWS Cloud Practitioner** *(in progress)*  
+- **Microsoft Technology Associate** (Badge 98-381)  
+- **MySQL for Data Analysis** (Udemy)  
+- **AWS Cloud Practitioner** *(In Progress)*
+
+---
+
+## 📊 GitHub Stats
+
+![Gurdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurdeepSingh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurdeep-singh-analyst/)  
-📧 [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com)  
-📱 702-324-3864   
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gurdeep-singh-analyst/) or email me at [gurdeepsaini05@gmail.com](mailto:gurdeepsaini05@gmail.com). Let’s collaborate on transforming data into actionable insights!
 
-> *“Transforming data into actionable insights to drive measurable business impact.”*
+---
+
+> _“Transforming data into actionable insights to drive measurable business impact.”_
