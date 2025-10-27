@@ -34,7 +34,7 @@ I am a results-driven **Business Intelligence and Data Analytics Professional** 
 
 | Programming & Analytics Tools    | Financial Management                | Leadership & Collaboration      | Data Management            |
 |----------------------------------|-------------------------------------|-------------------------------|----------------------------|
-| SQL, Python, R                   | P&L, Budgeting, Compliance          | Team Leadership, Stakeholder   | ETL, Governance, Reporting |
+| SQL, Python, R, Snowflake        | P&L, Budgeting, Compliance          | Team Leadership, Stakeholder   | ETL, Governance, Reporting |
 | Tableau, Power BI, Excel         | Forecasting                         | Cross-Functional Collaboration| Optimization               |
 
 ---
@@ -109,7 +109,7 @@ I am a results-driven **Business Intelligence and Data Analytics Professional** 
 
 <img src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-98--381-%236C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL%20for%20Data%20Analysis-Udemy-%23FFB347?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-%2300C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Done-%2300C9A7?style=for-the-badge"/>
 
 ---
 
