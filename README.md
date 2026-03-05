@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gurdeep%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20%26%20Data%20Analyst%20%40%20Monster%20Energy&descAlignY=55&descSize=18"/>
 </div>
 
-
+<div align="center">
 
 <a href="https://linkedin.com/in/gurdeep-singh-analyst">
   <img src="https://img.shields.io/badge/-Gurdeep%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
