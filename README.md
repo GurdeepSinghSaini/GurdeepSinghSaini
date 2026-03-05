@@ -1,78 +1,80 @@
-# <!-- GURDEEP SINGH — GitHub Profile README -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gurdeep%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20%26%20Data%20Analyst%20%40%20Monster%20Energy&descAlignY=55&descSize=18"/>
+</div>
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  INITIALIZING PROFILE...  ██████████████████████  100%  ✓    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<a href="https://linkedin.com/in/gurdeep-singh-analyst">
+  <img src="https://img.shields.io/badge/-Gurdeep%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:gurdeepsaini05@gmail.com">
+  <img src="https://img.shields.io/badge/-gurdeepsaini05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/GurdeepSinghSaini">
+  <img src="https://img.shields.io/badge/-GurdeepSinghSaini-181717?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/📍-Riverside%2C%20CA-00b4d8?style=flat"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=GurdeepSinghSaini&style=flat&color=blueviolet&label=Profile+Views"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gurdeep+Singh+%F0%9F%91%8B;Business+%26+Data+Analyst+%40+Monster+Energy;Turning+Raw+Data+Into+Real+Decisions;7%2B+Years+%7C+Cross-Functional+Analytics+Pro" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurdeep-singh-analyst)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdeepsaini05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GurdeepSinghSaini)
-[![Location](https://img.shields.io/badge/📍_Riverside,_CA-USA-00C9A7?style=for-the-badge)](https://maps.google.com/?q=Riverside,CA)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Business+%26+Data+Analyst+%40+Monster+Energy+%F0%9F%9F%A2;7%2B+Years+of+Cross-Functional+Analytics;Power+BI+%7C+SQL+%7C+Python+%7C+SAP+%7C+Excel+VBA;Turning+Raw+Data+into+Real+Business+Decisions+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### `> whoami`
+## 🧬 About Me
 
-```yaml
-Name     : Gurdeep Singh
-Role     : Business & Data Analyst
-Company  : Monster Energy  🟢
-Location : Riverside, California
-MBA      : California Baptist University '23
-MS-IT    : California Baptist University '24
-Focus    : Analytics · Project Support · BI
-```
-
-### `> current_status`
-
-```python
-currently    = "Building data pipelines @ Monster Energy"
-learning     = ["Snowflake Advanced", "dbt", "ML Forecasting"]
-collab_on    = "Cross-functional analytics projects"
-reach_me_at  = "gurdeepsaini05@gmail.com"
-fun_fact     = "I automated 30% off our reporting cycle ⚡"
-```
+- 🏢 **Business & Data Analyst** @ **Monster Energy** *(Feb 2022 – Present)*
+- 📊 **7+ years** transforming data into executive-level decisions
+- 🎓 **MBA + MS in IT** — California Baptist University, Riverside CA
+- ⚡ Automated **30% off** our reporting cycle with Power Query & VBA
+- 🌍 Cross-continental experience across **USA 🇺🇸 · India 🇮🇳**
+- 🤝 Expert at cross-functional collaboration: finance, ops, merchandising
+- 🎮 Just shipped: [Monster × Call of Duty Barcode Generator](https://github.com/GurdeepSinghSaini/monster-cod-barcode)
+- 💬 Ask me about **Power BI · SQL · Python · SAP · Agile · Excel Automation**
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**📊 Analytics & BI**
+**📊 BI & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20%28Advanced%29-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-**💻 Languages & Data**
+**💻 Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-**🛠️ Tools & Platforms**
+**🏗️ Platforms & Tools**
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**🔧 Excel Expertise**
+
+![VBA](https://img.shields.io/badge/VBA%20Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -80,124 +82,170 @@ fun_fact     = "I automated 30% off our reporting cycle ⚡"
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
-### ⚡ [Monster × Call of Duty Barcode Generator](https://github.com/GurdeepSinghSaini/monster-cod-barcode)
-> Simulates a real product SKU & barcode system for a Monster Energy × COD limited-edition collab launch. Supports UPC-A, EAN-13, CODE128 & CODE39.
+### ⚡ Monster × Call of Duty
+**Barcode Generator**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GurdeepSinghSaini/monster-cod-barcode)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://gurdeepsinghsaini.github.io/monster-cod-barcode)
+
+Product SKU & barcode system for a Monster Energy × COD limited-edition collab. Supports **UPC-A, EAN-13, CODE128 & CODE39** with PNG download.
+
+`HTML` `CSS` `JavaScript` `JsBarcode API`
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
-### 📊 Retail Sales Performance Dashboard
-> Dynamic Tableau dashboard visualizing sales across 50+ retail locations. Drove a **15% increase in sales** via targeted promotional strategy.
+### 📊 Retail Sales Dashboard
+**Multi-Location KPI Tracker**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+*In Progress*
+
+Dynamic Power BI + SQL dashboard for 50+ retail locations. Variance analysis, inventory alerts, and promotional ROI tracking — drove **15% sales uplift**.
+
+`Power BI` `SQL` `Python (Pandas)`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📈 Financial Forecasting & Variance Analysis
-> Automated Python + Excel forecasting system. Reduced manual reporting time by **30%** using Power Query & VBA macros.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### 🏭 Supply Chain ERP Analytics
-> Unified SAP/ERP reporting dashboards across 20+ distribution centers. Boosted inventory accuracy by **25%**.
+**Mars Inc. — 20+ Distribution Centers**
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+*In Progress*
+
+Unified SAP/ERP reporting dashboards for multi-DC operations. Automated milestone tracking & inventory risk flags — boosted accuracy **25%**.
+
+`SAP` `Python` `Tableau` `Excel VBA`
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🔮 Financial Forecasting Engine
+**Automated Variance & Planning**
+
+*In Progress*
+
+Python + Excel Power Query forecasting system. Eliminated manual reporting cycles — **30% time reduction**, adopted by finance & ops teams.
+
+`Python` `Excel VBA` `Power Query` `Power BI`
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=58a6ff"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GurdeepSinghSaini&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GurdeepSinghSaini&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GurdeepSinghSaini&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
+</div>
+
+---
+
+## 💼 Career Timeline
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      GURDEEP SINGH — CAREER JOURNEY                        │
+├──────────┬──────────────────────────────────────────────────────────────────┤
+│ 2018–19  │  📦  Junior Data Analyst · Domino's · Punjab, India              │
+│          │      50+ location performance dashboards · Excel automation       │
+├──────────┼──────────────────────────────────────────────────────────────────┤
+│ Jun–Sep  │  📡  Data Analyst · Airtel · Delhi, India                        │
+│ 2019     │      Budget forecasting · SQL reporting · KPI dashboards          │
+├──────────┼──────────────────────────────────────────────────────────────────┤
+│ 2019–21  │  🌍  Data Analyst – Supply Chain · Mars Incorporated · India     │
+│          │      20+ DCs · SAP/ERP · Milestone tracking · Risk flags          │
+├──────────┼──────────────────────────────────────────────────────────────────┤
+│ 2022–Now │  🟢  Business & Data Analyst · Monster Energy · Riverside, CA    │
+│          │      Power BI · Excel VBA · Agile · Cross-functional analytics    │
+├──────────┼──────────────────────────────────────────────────────────────────┤
+│ 2023     │  🎓  MBA – California Baptist University, Riverside CA            │
+├──────────┼──────────────────────────────────────────────────────────────────┤
+│ 2024     │  🎓  MS Information Technology – California Baptist University   │
+└──────────┴──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 Currently Focused On
+
+```python
+gurdeep = {
+    "role"        : "Business & Data Analyst @ Monster Energy 🟢",
+    "building"    : ["Supply Chain Dashboard", "Forecasting Engine", "Portfolio Site"],
+    "learning"    : ["dbt Core", "Databricks", "ML for Time-Series Forecasting"],
+    "open_to"     : "Senior Analyst · BI Manager · Data Lead roles 🚀",
+    "fun_fact"    : "I built a Monster × Call of Duty barcode scanner for fun ⚡🎮"
+}
+```
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GurdeepSinghSaini&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" />
+| Badge | Certification | Issuer | Year |
+|:---:|:---|:---|:---:|
+| 📊 | Advanced Excel for Data Analysis | Microsoft | 2023 |
+| 📈 | Power BI Dashboard Development | Microsoft | 2023 |
+| 🗄️ | SQL for Business Analytics | Coursera | 2022 |
+| 🔄 | Agile Project Management | Scrum Alliance | 2022 |
+| 🏭 | Supply Chain Analytics | APICS / Coursera | 2021 |
 
 </div>
 
 ---
 
-## 🏆 Certifications
-
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| Advanced Excel for Data Analysis | Microsoft | 2023 |
-| Power BI Dashboard Development | Microsoft | 2023 |
-| SQL for Business Analytics | Coursera | 2022 |
-| Agile Project Management | Scrum Alliance | 2022 |
-| Supply Chain Analytics | APICS / Coursera | 2021 |
+### 💬 My Philosophy
 
-</div>
+> *"Data is only powerful when it changes a decision. Everything else is just noise."*
 
----
+<br/>
 
-## 📈 Analytics Framework
+**Open to collaborations, senior roles, and conversations about data.**
+<br/>Hit me up — I respond fast. 👇
 
-```
-DEFINE GOALS ──► DATA INTEGRATION ──► CLEANSING ──► MODELING
-     │                                                   │
-     └──────────── AUTOMATE ◄── DELIVER ◄── VISUALIZE ◄─┘
-```
+<br/>
 
-> Every project follows this loop: start with the business question, end with an automated, repeatable insight engine.
+<a href="https://linkedin.com/in/gurdeep-singh-analyst">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gurdeepsaini05@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-## 💼 Experience Timeline
-
-```
-2022 ──────────────────────────────────────────── Present
-  🟢  Business & Data Analyst · Monster Energy · Riverside, CA
-
-2019 ──────────────────────────────────── 2021
-  🔵  Data Analyst, Supply Chain · Mars Incorporated · Delhi, India
-
-Jun ──── Sep 2019
-  🟠  Data Analyst, Reporting · Airtel · Delhi, India
-
-2018 ──────────────── 2019
-  ⚪  Junior Data Analyst · Domino's · Punjab, India
-```
-
----
-
-<div align="center">
-
-### 💬 Philosophy
-
-*"Data is only as powerful as the decisions it enables."*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=GurdeepSinghSaini&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Thanks for stopping by — let's build something data-driven together.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurdeep-singh-analyst)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
