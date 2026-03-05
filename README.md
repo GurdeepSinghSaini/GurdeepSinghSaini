@@ -1,139 +1,203 @@
-<!-- 
-  Strong Canva-inspired design for GitHub README. 
-  Uses badge banners, icons, clear sections, and color emphasis for a visually strong, professional look.
-  Note: GitHub markdown allows limited HTML and does not render web fonts or advanced CSS, so focus on layout and colors.
--->
+# <!-- GURDEEP SINGH — GitHub Profile README -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-%236C63FF?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-%23FFB347?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/California-USA-%2300C9A7?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<h1 align="center">💼 Gurdeep Singh</h1>
-<h3 align="center"><i>Business Intelligence & Data Analytics Professional</i></h3>
-<p align="center">
-  <strong>📍 California, USA &nbsp; | &nbsp; 📧 <a href="mailto:gurdeepsaini05@gmail.com">gurdeepsaini05@gmail.com</a> &nbsp; | &nbsp; 📞 702-324-3864</strong><br>
-  <a href="https://www.linkedin.com/in/gurdeep-singh-analyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GurdeepSinghSaini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  INITIALIZING PROFILE...  ██████████████████████  100%  ✓    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gurdeep+Singh+%F0%9F%91%8B;Business+%26+Data+Analyst+%40+Monster+Energy;Turning+Raw+Data+Into+Real+Decisions;7%2B+Years+%7C+Cross-Functional+Analytics+Pro" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurdeep-singh-analyst)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdeepsaini05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GurdeepSinghSaini)
+[![Location](https://img.shields.io/badge/📍_Riverside,_CA-USA-00C9A7?style=for-the-badge)](https://maps.google.com/?q=Riverside,CA)
+
+</div>
 
 ---
 
-## 🌟 About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
 
-I am a results-driven **Business Intelligence and Data Analytics Professional** with over **9 years of experience** spanning the **retail**, **beverage**, and **technology** sectors. My expertise lies in transforming complex datasets into actionable insights through innovative dashboards and automated solutions that drive strategic decision-making and operational improvements.
+### `> whoami`
+
+```yaml
+Name     : Gurdeep Singh
+Role     : Business & Data Analyst
+Company  : Monster Energy  🟢
+Location : Riverside, California
+MBA      : California Baptist University '23
+MS-IT    : California Baptist University '24
+Focus    : Analytics · Project Support · BI
+```
+
+### `> current_status`
+
+```python
+currently    = "Building data pipelines @ Monster Energy"
+learning     = ["Snowflake Advanced", "dbt", "ML Forecasting"]
+collab_on    = "Cross-functional analytics projects"
+reach_me_at  = "gurdeepsaini05@gmail.com"
+fun_fact     = "I automated 30% off our reporting cycle ⚡"
+```
+
+<br clear="right"/>
 
 ---
 
-## 🧠 My Skills
+## ⚡ Tech Arsenal
 
-| Programming & Analytics Tools    | Financial Management                | Leadership & Collaboration      | Data Management            |
-|----------------------------------|-------------------------------------|-------------------------------|----------------------------|
-| SQL, Python, R, Snowflake        | P&L, Budgeting, Compliance          | Team Leadership, Stakeholder   | ETL, Governance, Reporting |
-| Tableau, Power BI, Excel         | Forecasting                         | Cross-Functional Collaboration| Optimization               |
+<div align="center">
 
----
+**📊 Analytics & BI**
 
-## 🔍 My Analytics Framework
-<details>
-  <summary><strong>Click to expand</strong></summary>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-1. <span style="color:#6C63FF"><b>Define Goals:</b></span> Identify business objectives and KPIs  
-2. <span style="color:#00C9A7"><b>Data Integration:</b></span> Implement ETL processes from various sources  
-3. <span style="color:#FFB347"><b>Data Cleansing:</b></span> Ensure data accuracy and quality checks  
-4. <span style="color:#6C63FF"><b>Analysis & Modeling:</b></span> Perform forecasting and scenario analysis  
-5. <span style="color:#00C9A7"><b>Visualization:</b></span> Create executive dashboards and reports  
-6. <span style="color:#FFB347"><b>Delivery:</b></span> Present insights and strategic recommendations  
-7. <span style="color:#6C63FF"><b>Automation:</b></span> Streamline reporting and operational processes  
-</details>
+**💻 Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h4>🏬 Retail Sales Performance Dashboard</h4>
-      <img src="https://via.placeholder.com/350x120/6C63FF/FFFFFF?text=Retail+Sales+Dashboard" alt="Retail Sales" width="350"/>
-      <ul>
-        <li><b>Tools:</b> Tableau, SQL</li>
-        <li><b>Description:</b> Dynamic dashboard to visualize sales performance across outlets, optimizing inventory management.</li>
-        <li><b>Impact:</b> <span style="color:#6C63FF"><b>15% increase in sales</b></span> via targeted promotions.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>📊 Financial Forecasting & Variance Analysis</h4>
-      <img src="https://via.placeholder.com/350x120/FFB347/FFFFFF?text=Financial+Forecasting" alt="Financial Forecasting" width="350"/>
-      <ul>
-        <li><b>Tools:</b> Python, Excel</li>
-        <li><b>Description:</b> Automated forecasting and variance analysis for enhanced reporting.</li>
-        <li><b>Impact:</b> <span style="color:#FFB347"><b>30% reduction</b></span> in manual reporting time.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>📈 Marketing ROI Optimization</h4>
-      <img src="https://via.placeholder.com/350x120/00C9A7/FFFFFF?text=Marketing+ROI" alt="Marketing ROI" width="350"/>
-      <ul>
-        <li><b>Tools:</b> Power BI, R</li>
-        <li><b>Description:</b> Campaign analysis for ROI and budget optimization.</li>
-        <li><b>Impact:</b> <span style="color:#00C9A7"><b>20% reduction</b></span> in marketing spend.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🏭 ERP & Supply Chain Analytics</h4>
-      <img src="https://via.placeholder.com/350x120/6C63FF/FFFFFF?text=Supply+Chain+Analytics" alt="ERP Supply Chain" width="350"/>
-      <ul>
-        <li><b>Tools:</b> SQL, Tableau, Python</li>
-        <li><b>Description:</b> Unified ERP/WMS reporting dashboards for operational visibility.</li>
-        <li><b>Impact:</b> <span style="color:#6C63FF"><b>25% boost</b></span> in inventory accuracy.</li>
-      </ul>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Monster × Call of Duty Barcode Generator](https://github.com/GurdeepSinghSaini/monster-cod-barcode)
+> Simulates a real product SKU & barcode system for a Monster Energy × COD limited-edition collab launch. Supports UPC-A, EAN-13, CODE128 & CODE39.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Retail Sales Performance Dashboard
+> Dynamic Tableau dashboard visualizing sales across 50+ retail locations. Drove a **15% increase in sales** via targeted promotional strategy.
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Financial Forecasting & Variance Analysis
+> Automated Python + Excel forecasting system. Reduced manual reporting time by **30%** using Power Query & VBA macros.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Supply Chain ERP Analytics
+> Unified SAP/ERP reporting dashboards across 20+ distribution centers. Boosted inventory accuracy by **25%**.
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+</td>
+</tr>
 </table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GurdeepSinghSaini&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-<img src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-98--381-%236C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL%20for%20Data%20Analysis-Udemy-%23FFB347?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Done-%2300C9A7?style=for-the-badge"/>
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|---|---|---|
+| Advanced Excel for Data Analysis | Microsoft | 2023 |
+| Power BI Dashboard Development | Microsoft | 2023 |
+| SQL for Business Analytics | Coursera | 2022 |
+| Agile Project Management | Scrum Alliance | 2022 |
+| Supply Chain Analytics | APICS / Coursera | 2021 |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Analytics Framework
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=radical" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&theme=radical" width="320"/>
-</p>
-<p align="center"><b>⭐️ Total Stars Earned: 10</b></p>
+```
+DEFINE GOALS ──► DATA INTEGRATION ──► CLEANSING ──► MODELING
+     │                                                   │
+     └──────────── AUTOMATE ◄── DELIVER ◄── VISUALIZE ◄─┘
+```
+
+> Every project follows this loop: start with the business question, end with an automated, repeatable insight engine.
 
 ---
 
-## 🤝 Let's Connect!
+## 💼 Experience Timeline
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gurdeep-singh-analyst/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gurdeepsaini05@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-%23FFB347?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```
+2022 ──────────────────────────────────────────── Present
+  🟢  Business & Data Analyst · Monster Energy · Riverside, CA
 
-<p align="center" style="font-size:1.2rem;">
-  <i>“Transforming data into actionable insights to drive measurable business impact.”</i>
-</p>
+2019 ──────────────────────────────────── 2021
+  🔵  Data Analyst, Supply Chain · Mars Incorporated · Delhi, India
+
+Jun ──── Sep 2019
+  🟠  Data Analyst, Reporting · Airtel · Delhi, India
+
+2018 ──────────────── 2019
+  ⚪  Junior Data Analyst · Domino's · Punjab, India
+```
+
+---
+
+<div align="center">
+
+### 💬 Philosophy
+
+*"Data is only as powerful as the decisions it enables."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=GurdeepSinghSaini&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Thanks for stopping by — let's build something data-driven together.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurdeep-singh-analyst)
+
+</div>
