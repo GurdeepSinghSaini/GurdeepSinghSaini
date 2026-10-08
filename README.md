@@ -1,150 +1,96 @@
-<div align="center">
+<h1 align="center"> Hi 👋🏻, I'm Gurdeep Singh </br>
+</h1>
+<p align="center">Business Intelligence and Sales Operations Analyst 📊</p>
+<p align="center">Turning dense data into decisions leadership can act on ⚡</p>
+<p align="center">
+<a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="YOUR_PORTFOLIO_URL" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=googlechrome&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:gurdeepsaini05@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0B1E3F,50:1F3864,100:4A90D9&height=200&section=header&text=GURDEEP%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=SALES%20OPS%20%26%20BI%20ANALYTICS%20DASHBOARD&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
+## About Me 👨‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=1F3864&center=true&vCenter=true&width=680&lines=Converting+raw+data+into+revenue+decisions;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;6%2B+years+%7C+3+industries+%7C+15%2B+dashboards+shipped" alt="Typing SVG"/>
+I have 6+ years of experience turning cross-functional data into revenue-protecting, cost-saving, and growth-driving decisions across hospitality, CPG, retail, and supply chain. Based in Las Vegas, Nevada. I work directly with sales, finance, and operations teams to clean up reporting workflows and turn big datasets into something leadership can use.
 
-<br/>
+## Results 🚀
 
-<a href="https://www.linkedin.com/in/gurdeep-singh-analyst/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://job-showcase-20.emergent.host/"><img src="https://img.shields.io/badge/PORTFOLIO-1F3864?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
-<a href="mailto:gurdeepsaini05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+- 📈 **25%** gain in reporting accuracy
+- 🎯 **18%** lift in forecast precision
+- ⏱️ **30%** cut in reporting cycle time
+- 📦 Allocation accuracy from roughly **85% to 93%+**
+- 🔍 **40+** SKU-level errors caught before product launch
 
-</div>
+## Work Experience 💼
 
-<br/>
+### 🏨 Sales Operations Analyst : GCG LLC
+*Jul 2025 - Present | Las Vegas, NV*
+Reporting and revenue analysis across a multi-property portfolio of premium franchised and IHG hotels. Real-time Power BI dashboards for hospitality KPIs, booking pace tracking against forecast, CRM and RFP data audits across Marriott/IHG systems, and weekly and monthly performance packages for ownership and regional leadership.
 
-## 📊 Impact Dashboard
+### 🥤 Business & Data Analyst : Monster Energy
+*Feb 2022 - Jul 2025 | Riverside County, CA*
+Built and owned 15+ KPI dashboards in Excel and Power BI used by leadership for performance reviews and territory decisions. Standardized reporting templates company-wide, moved legacy Excel reporting to Power BI, wrote complex SQL against enterprise databases, and automated recurring reports with Python and Excel macros.
 
-<div align="center">
+### 🍫 Supply Chain Analyst : Mars
+*Oct 2019 - Dec 2021 | New Delhi, India*
+Worked with ERP and WMOS data across 20+ distribution centers. Raised forecast accuracy by 18% through demand-pattern modeling and built allocation-review dashboards that became the standard tool in supply chain planning meetings.
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 📡 Data Analyst : Airtel
+*Jun 2019 - Sep 2019 | Delhi, India*
+Forecast vs. actual variance reports in Excel for regional planning.
 
-### 6+
-**Years Experience**
-<sub>BI · Ops · Supply Chain</sub>
+### 🍕 Junior Data Analyst : Domino's
+*Jan 2018 - May 2019 | Ludhiana, India*
+Sales and inventory analysis across 50+ locations to support regional planning.
 
-</td>
-<td align="center" width="25%">
+## Tech Stack 💻
+#### Languages / Querying
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 
-### 25%
-**Reporting Accuracy ↑**
-<sub>Enterprise-wide rollout</sub>
+#### BI / Reporting
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![SAP Analytics Cloud](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-000?style=for-the-badge&logo=sap&logoColor=0FAAFF)
 
-</td>
-<td align="center" width="25%">
+#### CRM / ERP / Warehouse Systems
+![Salesforce](https://img.shields.io/badge/-Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![SAP](https://img.shields.io/badge/-SAP%20ERP-000?style=for-the-badge&logo=sap&logoColor=0FAAFF)
+![Manhattan WMOS](https://img.shields.io/badge/-Manhattan%20WMOS-000?style=for-the-badge)
 
-### 18%
-**Forecast Precision ↑**
-<sub>Demand-pattern modeling</sub>
+#### Databases / Data Warehouse
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle&logoColor=F80000)
 
-</td>
-<td align="center" width="25%">
+#### Also
+ETL & Data Validation • KPI Tracking • Forecasting • Financial Reporting • Dashboard Design • Cross-Functional Collaboration
 
-### 30%
-**Reporting Cycle Time ↓**
-<sub>Workflow automation</sub>
+## Education 🎓
 
-</td>
-</tr>
-</table>
+- M.S., Information Technology : California Baptist University
+- MBA, Business Administration : California Baptist University
+- B.S., Information Technology : Lovely Professional University
 
-</div>
+## Certifications 📜
 
----
+- Oracle Database SQL Certified Associate
+- SAP Certified Associate : Business Technology Platform (BTP)
+- SAP Certified Associate : SAP Analytics Cloud (SAC)
+- Salesforce Certified Administrator
+- The Ultimate MySQL Bootcamp : Udemy, 2023
+- Microsoft Azure & IBM : Microsoft, 2024
 
-## 🧭 Focus Areas
-
+```sql
+SELECT insights
+FROM data
+WHERE decisions = 'better';
+-- Gurdeep Singh
 ```
-┌─────────────────────────────┬─────────────────────────────┐
-│  📈 SALES OPS & ANALYTICS    │  📊 BI & DASHBOARDS          │
-│  Revenue metrics, RFPs,      │  Power BI + Tableau          │
-│  booking pace, pipeline      │  executive-facing dashboards │
-├─────────────────────────────┼─────────────────────────────┤
-│  🗄️  DATA ENGINEERING         │  🔗 CROSS-FUNCTIONAL         │
-│  Oracle SQL, MySQL,          │  Hospitality · Supply Chain  │
-│  ETL & dataset transforms    │  · Merchandising execution   │
-└─────────────────────────────┴─────────────────────────────┘
-```
 
----
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-## 🛠️ Tech Stack
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,mysql,oracle,git,github,vscode&theme=light&perline=6"/>
-
-<br/><br/>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
-### Skill Proficiency
-
-<div align="center">
-<img src="https://quickchart.io/chart?w=560&h=280&bkg=white&c={type:'horizontalBar',data:{labels:['Power BI','Excel','SQL','Tableau','Python','Salesforce'],datasets:[{label:'Proficiency',data:[92,95,90,85,80,78],backgroundColor:['%231F3864','%232E5395','%234A90D9','%236FA8DC','%239FC5E8','%23CFE2F3']}]},options:{legend:{display:false},title:{display:true,text:'Core%20Skill%20Proficiency',fontColor:'%231F3864',fontSize:16},scales:{xAxes:[{ticks:{min:0,max:100}}]}}}" alt="Skill proficiency chart"/>
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GurdeepSinghSaini&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=1F3864&icon_color=4A90D9&text_color=333333&bg_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GurdeepSinghSaini&hide_border=true&background=FFFFFF&stroke=1F3864&ring=4A90D9&fire=4A90D9&currStreakLabel=1F3864" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurdeepSinghSaini&theme=minimal&hide_border=true&color=1F3864&line=4A90D9&point=1F3864&area=true&area_color=4A90D9" width="90%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurdeepSinghSaini&layout=compact&hide_border=true&title_color=1F3864&text_color=333333&bg_color=ffffff" height="165"/>
-
-</div>
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GurdeepSinghSaini&theme=flat&no-frame=true&column=6&title.color=1F3864&text.color=333333&icon.color=4A90D9"/>
-</div>
-
----
-
-## 🎓 Academic Foundation
-
-<div align="center">
-
-| Degree | Focus |
-|---|---|
-| 🎓 MBA | Business Administration |
-| 💻 MS, Information Technology | Data Systems & Analytics |
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/gurdeep-singh-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://job-showcase-20.emergent.host/"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:gurdeepsaini05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GurdeepSinghSaini&color=1F3864&style=flat-square&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4A90D9,50:1F3864,100:0B1E3F&height=100&section=footer" width="100%"/>
-
-</div>
+### Thanks for Visiting my GitHub Profile!
