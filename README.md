@@ -1,44 +1,86 @@
-<h1 align="center"> Hi 👋🏻, I'm Gurdeep Singh </br>
-</h1>
-<p align="center">Business Intelligence and Sales Operations Analyst 📊</p>
-<p align="center">Turning dense data into decisions leadership can act on ⚡</p>
-<p align="center">
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="YOUR_PORTFOLIO_URL" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=googlechrome&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="mailto:gurdeepsaini05@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a></p>
+<div align="center">
+ <h1>📊<br/>Gurdeep Singh : Business Intelligence & Sales Operations Analyst</h1>
+ <img src="https://img.shields.io/badge/Experience-6%2B%20Years-brightgreen?style=normal"/>
+ <img src="https://img.shields.io/badge/Location-Las%20Vegas%2C%20NV-blue?style=normal"/>
+ <img src="https://img.shields.io/badge/Focus-BI%20%7C%20Sales%20Ops%20%7C%20Supply%20Chain-orange?style=normal"/>
+ <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat"/>
+</div>
+<br/>
 
-```bash
-$ whoami
-gurdeep_singh
+I turn cross-functional data into revenue-protecting, cost-saving, and growth-driving decisions across hospitality, CPG, retail, and supply chain. I work directly with sales, finance, and operations teams to clean up reporting workflows and turn dense datasets into something leadership can act on.
 
-$ cat about.txt
-role        : Business Intelligence and Sales Operations Analyst
-experience  : 6+ years
-industries  : hospitality, CPG, retail, supply chain
-location    : Las Vegas, Nevada
-works_with  : sales, finance and operations teams
-focus       : clean reporting, reliable forecasts, decisions leadership can act on
-```
+# What I Do
 
-## Results 🚀
+### ⚡ Dashboards That Leadership Uses
+I design and maintain Power BI and Excel dashboards that track KPIs in real time. At Monster Energy I built and owned 15+ of them for performance reviews and territory decisions.
 
-```sql
-SELECT metric, impact
-FROM   career_results
-ORDER  BY impact DESC;
-```
+### 📊 Reporting You Can Trust
+I standardize reporting templates, audit CRM and ERP data, and catch errors before they reach a dashboard. This lifted reporting accuracy by 25% and cut reporting cycle time by 30%.
 
-| metric | impact |
-|---|---|
-| reporting_accuracy | +25% |
-| forecast_precision | +18% |
-| reporting_cycle_time | -30% |
-| allocation_accuracy | ~85% to 93%+ |
-| sku_errors_caught_before_launch | 40+ |
+### 🎯 Forecasting and Demand Planning
+I model demand patterns and track booking pace against forecast. At Mars this raised forecast accuracy by 18% and allocation accuracy from roughly 85% to 93%+ across 20+ distribution centers.
+
+### 🧮 SQL and Automation
+I write complex SQL to pull, join, and validate large sales and operational datasets, and automate recurring reports with Python and Excel macros.
+
+### 🤝 Working With Teams
+I partner with sales, finance, merchandising, procurement, and logistics teams, and present findings to regional and executive leadership.
+
+## Where I Work
+
+<details>
+<summary>🏨 Sales Operations Analyst : GCG LLC (Jul 2025 - Present, Las Vegas, NV)</summary>
+
+- Analyze sales, operational, financial, and guest-service data across a multi-property portfolio of premium franchised and IHG hotels
+- Design and maintain real-time Power BI dashboards tracking hospitality KPIs
+- Track group, corporate, and transient booking pace against forecast to flag pipeline gaps
+- Maintain and audit CRM and RFP data across Marriott/IHG systems
+- Prepare weekly and monthly performance packages for ownership and regional leadership
+- Standardized month-end reporting templates across properties
+
+</details>
+
+<details>
+<summary>🥤 Business & Data Analyst : Monster Energy (Feb 2022 - Jul 2025, Riverside County, CA)</summary>
+
+- Built and owned 15+ KPI Excel and Power BI dashboards used by leadership
+- Standardized enterprise reporting templates company-wide: +25% data accuracy, -30% reporting cycle time
+- Wrote and optimized complex SQL queries against enterprise databases
+- Automated recurring reporting workflows with Python and Excel macros
+- Caught 40+ SKU-level errors before product launch by cross-checking sales data against master files
+- Migrated legacy Excel reporting to Power BI
+
+</details>
+
+<details>
+<summary>🍫 Supply Chain Analyst : Mars (Oct 2019 - Dec 2021, New Delhi, India)</summary>
+
+- Mined ERP and Warehouse Management System (WMOS) data across 20+ distribution centers
+- Raised forecast accuracy by 18% through demand-pattern modeling
+- Built allocation-review dashboards adopted as the standard tool in supply chain planning meetings
+- Reconciled ERP and WMOS data discrepancies weekly
+
+</details>
+
+<details>
+<summary>📡 Data Analyst : Airtel (Jun 2019 - Sep 2019, Delhi, India)</summary>
+
+- Built Excel variance-tracking reports comparing forecast vs. actual for regional planning
+
+</details>
+
+<details>
+<summary>🍕 Junior Data Analyst : Domino's (Jan 2018 - May 2019, Ludhiana, India)</summary>
+
+- Analyzed sales and inventory data across 50+ locations to support regional planning
+- Flagged slow-moving SKUs and optimized stock reallocation
+
+</details>
 
 ## Analytics Commands 🧮
 
-**SQL** : joining and validating large sales datasets
+<details>
+<summary>SQL</summary>
 
 ```sql
 -- sales vs master file check, catch SKU errors before they hit dashboards
@@ -47,19 +89,20 @@ FROM   sales s
 LEFT JOIN sku_master m ON s.sku = m.sku
 WHERE  m.sku IS NULL
 GROUP  BY s.sku, s.region;
-```
 
-```sql
 -- booking pace vs forecast by segment
 SELECT segment,
-       SUM(booked_rooms)                      AS booked,
-       SUM(forecast_rooms)                    AS forecast,
+       SUM(booked_rooms)                       AS booked,
+       SUM(forecast_rooms)                     AS forecast,
        SUM(booked_rooms) - SUM(forecast_rooms) AS pace_gap
 FROM   booking_pace
 GROUP  BY segment;
 ```
 
-**DAX** : Power BI measures
+</details>
+
+<details>
+<summary>DAX (Power BI)</summary>
 
 ```dax
 Occupancy % = DIVIDE ( [Rooms Sold], [Rooms Available] )
@@ -72,7 +115,10 @@ Budget Variance % =
 DIVIDE ( [Actual Revenue] - [Budget Revenue], [Budget Revenue] )
 ```
 
-**Python** : automating recurring reports
+</details>
+
+<details>
+<summary>Python</summary>
 
 ```python
 import pandas as pd
@@ -83,7 +129,10 @@ summary = df.groupby("region")[["actual", "forecast", "variance"]].sum()
 summary.to_excel("weekly_summary.xlsx")
 ```
 
-**Excel** : forecast vs actual
+</details>
+
+<details>
+<summary>Excel</summary>
 
 ```excel
 =IFERROR((Actual - Forecast) / Forecast, 0)
@@ -91,93 +140,44 @@ summary.to_excel("weekly_summary.xlsx")
 =XLOOKUP(SKU, MasterList[SKU], MasterList[Category], "Not found")
 ```
 
-## Work Experience 💼
+</details>
 
-```bash
-$ git log --oneline --career
-```
+## Tech Used
+![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🏨 Sales Operations Analyst : GCG LLC
-*Jul 2025 - Present | Las Vegas, NV*
-Reporting and revenue analysis across a multi-property portfolio of premium franchised and IHG hotels. Real-time Power BI dashboards for hospitality KPIs, booking pace tracking against forecast, CRM and RFP data audits across Marriott/IHG systems, and weekly and monthly performance packages for ownership and regional leadership.
-
-### 🥤 Business & Data Analyst : Monster Energy
-*Feb 2022 - Jul 2025 | Riverside County, CA*
-Built and owned 15+ KPI dashboards in Excel and Power BI used by leadership for performance reviews and territory decisions. Standardized reporting templates company-wide, moved legacy Excel reporting to Power BI, wrote complex SQL against enterprise databases, and automated recurring reports with Python and Excel macros.
-
-### 🍫 Supply Chain Analyst : Mars
-*Oct 2019 - Dec 2021 | New Delhi, India*
-Worked with ERP and WMOS data across 20+ distribution centers. Raised forecast accuracy by 18% through demand-pattern modeling and built allocation-review dashboards that became the standard tool in supply chain planning meetings.
-
-### 📡 Data Analyst : Airtel
-*Jun 2019 - Sep 2019 | Delhi, India*
-Forecast vs. actual variance reports in Excel for regional planning.
-
-### 🍕 Junior Data Analyst : Domino's
-*Jan 2018 - May 2019 | Ludhiana, India*
-Sales and inventory analysis across 50+ locations to support regional planning.
-
-## Tech Stack 💻
-
-```bash
-$ ls ~/stack
-```
-
-#### Languages / Querying
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-
-#### BI / Reporting
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![SAP Analytics Cloud](https://img.shields.io/badge/-SAP%20Analytics%20Cloud-000?style=for-the-badge&logo=sap&logoColor=0FAAFF)
-
-#### CRM / ERP / Warehouse Systems
-![Salesforce](https://img.shields.io/badge/-Salesforce-000?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![SAP](https://img.shields.io/badge/-SAP%20ERP-000?style=for-the-badge&logo=sap&logoColor=0FAAFF)
-![Manhattan WMOS](https://img.shields.io/badge/-Manhattan%20WMOS-000?style=for-the-badge)
-
-#### Databases / Data Warehouse
-![Snowflake](https://img.shields.io/badge/-Snowflake-000?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle&logoColor=F80000)
-
-#### Also
-ETL & Data Validation • KPI Tracking • Forecasting • Financial Reporting • Dashboard Design • Cross-Functional Collaboration
+**Also:** Manhattan WMOS, ERP systems, ETL & data validation, KPI tracking, financial reporting, dashboard design
 
 ## Education 🎓
-
-```bash
-$ cat education.txt
-M.S.  Information Technology    California Baptist University
-MBA   Business Administration    California Baptist University
-B.S.  Information Technology    Lovely Professional University
-```
+- M.S., Information Technology : California Baptist University
+- MBA, Business Administration : California Baptist University
+- B.S., Information Technology : Lovely Professional University
 
 ## Certifications 📜
+- Oracle Database SQL Certified Associate
+- SAP Certified Associate : Business Technology Platform (BTP)
+- SAP Certified Associate : SAP Analytics Cloud (SAC)
+- Salesforce Certified Administrator
+- The Ultimate MySQL Bootcamp : Udemy, 2023
+- Microsoft Azure & IBM : Microsoft, 2024
 
-```bash
-$ cat certifications.txt
-Oracle Database SQL Certified Associate
-SAP Certified Associate : Business Technology Platform (BTP)
-SAP Certified Associate : SAP Analytics Cloud (SAC)
-Salesforce Certified Administrator
-The Ultimate MySQL Bootcamp : Udemy, 2023
-Microsoft Azure & IBM : Microsoft, 2024
-```
+## Flex My GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-```sql
-SELECT insights
-FROM   data
-WHERE  decisions = 'better';
--- Gurdeep Singh
-```
+![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+## GitHub Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7)
 
-## GitHub Streaks 🔥
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-### Thanks for Visiting my GitHub Profile!
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=normal&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=normal&logo=gmail&logoColor=white)](mailto:gurdeepsaini05@gmail.com)
