@@ -7,19 +7,95 @@
 <a href="YOUR_PORTFOLIO_URL" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=googlechrome&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:gurdeepsaini05@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=D14836&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-## About Me 👨‍💻
+```bash
+$ whoami
+gurdeep_singh
 
-I have 6+ years of experience turning cross-functional data into revenue-protecting, cost-saving, and growth-driving decisions across hospitality, CPG, retail, and supply chain. Based in Las Vegas, Nevada. I work directly with sales, finance, and operations teams to clean up reporting workflows and turn big datasets into something leadership can use.
+$ cat about.txt
+role        : Business Intelligence and Sales Operations Analyst
+experience  : 6+ years
+industries  : hospitality, CPG, retail, supply chain
+location    : Las Vegas, Nevada
+works_with  : sales, finance and operations teams
+focus       : clean reporting, reliable forecasts, decisions leadership can act on
+```
 
 ## Results 🚀
 
-- 📈 **25%** gain in reporting accuracy
-- 🎯 **18%** lift in forecast precision
-- ⏱️ **30%** cut in reporting cycle time
-- 📦 Allocation accuracy from roughly **85% to 93%+**
-- 🔍 **40+** SKU-level errors caught before product launch
+```sql
+SELECT metric, impact
+FROM   career_results
+ORDER  BY impact DESC;
+```
+
+| metric | impact |
+|---|---|
+| reporting_accuracy | +25% |
+| forecast_precision | +18% |
+| reporting_cycle_time | -30% |
+| allocation_accuracy | ~85% to 93%+ |
+| sku_errors_caught_before_launch | 40+ |
+
+## Analytics Commands 🧮
+
+**SQL** : joining and validating large sales datasets
+
+```sql
+-- sales vs master file check, catch SKU errors before they hit dashboards
+SELECT s.sku, s.region, SUM(s.units) AS units_sold
+FROM   sales s
+LEFT JOIN sku_master m ON s.sku = m.sku
+WHERE  m.sku IS NULL
+GROUP  BY s.sku, s.region;
+```
+
+```sql
+-- booking pace vs forecast by segment
+SELECT segment,
+       SUM(booked_rooms)                      AS booked,
+       SUM(forecast_rooms)                    AS forecast,
+       SUM(booked_rooms) - SUM(forecast_rooms) AS pace_gap
+FROM   booking_pace
+GROUP  BY segment;
+```
+
+**DAX** : Power BI measures
+
+```dax
+Occupancy % = DIVIDE ( [Rooms Sold], [Rooms Available] )
+
+ADR = DIVIDE ( [Room Revenue], [Rooms Sold] )
+
+RevPAR = [Occupancy %] * [ADR]
+
+Budget Variance % =
+DIVIDE ( [Actual Revenue] - [Budget Revenue], [Budget Revenue] )
+```
+
+**Python** : automating recurring reports
+
+```python
+import pandas as pd
+
+df = pd.read_excel("weekly_sales.xlsx")
+df["variance"] = df["actual"] - df["forecast"]
+summary = df.groupby("region")[["actual", "forecast", "variance"]].sum()
+summary.to_excel("weekly_summary.xlsx")
+```
+
+**Excel** : forecast vs actual
+
+```excel
+=IFERROR((Actual - Forecast) / Forecast, 0)
+=SUMIFS(Revenue, Region, A2, Month, B1)
+=XLOOKUP(SKU, MasterList[SKU], MasterList[Category], "Not found")
+```
 
 ## Work Experience 💼
+
+```bash
+$ git log --oneline --career
+```
 
 ### 🏨 Sales Operations Analyst : GCG LLC
 *Jul 2025 - Present | Las Vegas, NV*
@@ -42,6 +118,11 @@ Forecast vs. actual variance reports in Excel for regional planning.
 Sales and inventory analysis across 50+ locations to support regional planning.
 
 ## Tech Stack 💻
+
+```bash
+$ ls ~/stack
+```
+
 #### Languages / Querying
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
@@ -66,23 +147,29 @@ ETL & Data Validation • KPI Tracking • Forecasting • Financial Reporting �
 
 ## Education 🎓
 
-- M.S., Information Technology : California Baptist University
-- MBA, Business Administration : California Baptist University
-- B.S., Information Technology : Lovely Professional University
+```bash
+$ cat education.txt
+M.S.  Information Technology    California Baptist University
+MBA   Business Administration    California Baptist University
+B.S.  Information Technology    Lovely Professional University
+```
 
 ## Certifications 📜
 
-- Oracle Database SQL Certified Associate
-- SAP Certified Associate : Business Technology Platform (BTP)
-- SAP Certified Associate : SAP Analytics Cloud (SAC)
-- Salesforce Certified Administrator
-- The Ultimate MySQL Bootcamp : Udemy, 2023
-- Microsoft Azure & IBM : Microsoft, 2024
+```bash
+$ cat certifications.txt
+Oracle Database SQL Certified Associate
+SAP Certified Associate : Business Technology Platform (BTP)
+SAP Certified Associate : SAP Analytics Cloud (SAC)
+Salesforce Certified Administrator
+The Ultimate MySQL Bootcamp : Udemy, 2023
+Microsoft Azure & IBM : Microsoft, 2024
+```
 
 ```sql
 SELECT insights
-FROM data
-WHERE decisions = 'better';
+FROM   data
+WHERE  decisions = 'better';
 -- Gurdeep Singh
 ```
 
